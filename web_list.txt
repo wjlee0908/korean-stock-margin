@@ -1,0 +1,6714 @@
+[0]
+<div class="section1 pt40" name="ppt2" style="display:none">
+<h4 class="h4_b1 fl">포괄손익계산서</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="포괄손익계산서, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">포괄손익계산서</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">매출액</th>
+<td class="rgt">42,131,383</td>
+<td class="rgt">42,606,978</td>
+<td class="rgt">41,314,723</td>
+<td class="rgt">47,645,339</td>
+<td class="rgt">38,814,830</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출원가</th>
+<td class="rgt">24,038,608</td>
+<td class="rgt">25,196,260</td>
+<td class="rgt">24,606,173</td>
+<td class="rgt">27,578,197</td>
+<td class="rgt">24,285,876</td>
+</tr>
+<tr>
+<th scope="row">매출총이익(손실)</th>
+<td class="rgt">18,092,775</td>
+<td class="rgt">17,410,718</td>
+<td class="rgt">16,708,550</td>
+<td class="rgt">20,067,142</td>
+<td class="rgt">14,528,954</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">판매비와관리비</th>
+<td class="rgt">6,833,292</td>
+<td class="rgt">6,209,821</td>
+<td class="rgt">5,658,945</td>
+<td class="rgt">6,154,425</td>
+<td class="rgt">6,992,722</td>
+</tr>
+<tr>
+<th scope="row">인건비</th>
+<td class="rgt">372,073</td>
+<td class="rgt">503,509</td>
+<td class="rgt">476,159</td>
+<td class="rgt">492,683</td>
+<td class="rgt">502,098</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">일반관리비</th>
+<td class="rgt">1,066,702</td>
+<td class="rgt">830,831</td>
+<td class="rgt">438,646</td>
+<td class="rgt">814,851</td>
+<td class="rgt">741,172</td>
+</tr>
+<tr>
+<th scope="row">판매비</th>
+<td class="rgt">1,203,157</td>
+<td class="rgt">952,260</td>
+<td class="rgt">656,615</td>
+<td class="rgt">502,925</td>
+<td class="rgt">952,630</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타판매비와관리비</th>
+<td class="rgt">4,191,360</td>
+<td class="rgt">3,923,221</td>
+<td class="rgt">4,087,525</td>
+<td class="rgt">4,343,966</td>
+<td class="rgt">4,796,822</td>
+</tr>
+<tr>
+<th scope="row">영업이익(손실)</th>
+<td class="rgt">11,259,483</td>
+<td class="rgt">11,200,897</td>
+<td class="rgt">11,049,605</td>
+<td class="rgt">13,912,717</td>
+<td class="rgt">7,536,232</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">영업외수익</th>
+<td class="rgt">3,308,102</td>
+<td class="rgt">1,069,953</td>
+<td class="rgt">1,439,360</td>
+<td class="rgt">894,999</td>
+<td class="rgt">1,305,327</td>
+</tr>
+<tr>
+<th scope="row">영업외비용</th>
+<td class="rgt">2,306,845</td>
+<td class="rgt">701,873</td>
+<td class="rgt">1,394,375</td>
+<td class="rgt">920,553</td>
+<td class="rgt">993,434</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">법인세비용차감전계속사업이익(손실)</th>
+<td class="rgt">12,260,740</td>
+<td class="rgt">11,568,977</td>
+<td class="rgt">11,094,590</td>
+<td class="rgt">13,887,163</td>
+<td class="rgt">7,848,125</td>
+</tr>
+<tr>
+<th scope="row">계속사업손익법인세비용(부의법인세비용)</th>
+<td class="rgt">2,254,769</td>
+<td class="rgt">3,116,519</td>
+<td class="rgt">3,016,605</td>
+<td class="rgt">3,675,615</td>
+<td class="rgt">1,774,989</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">계속사업이익(손실)</th>
+<td class="rgt">10,005,971</td>
+<td class="rgt">8,452,458</td>
+<td class="rgt">8,077,985</td>
+<td class="rgt">10,211,548</td>
+<td class="rgt">6,073,136</td>
+</tr>
+<tr>
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">10,005,971</td>
+<td class="rgt">8,452,458</td>
+<td class="rgt">8,077,985</td>
+<td class="rgt">10,211,548</td>
+<td class="rgt">6,073,136</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">[포괄손익]</th>
+<td class="rgt">10,278,255</td>
+<td class="rgt">8,430,238</td>
+<td class="rgt">8,048,870</td>
+<td class="rgt">10,223,782</td>
+<td class="rgt">5,733,916</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_ke6" onclick="per_cha(this.value)" type="radio" value="pp"/>분기
+							<input name="period_kf6" onclick="per_cha(this.value)" type="radio" value="yp"/>연간
+							<select id="PpinS2" name="PpinS2" onchange="onDisplay8(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[1]
+<div class="section1">
+<h3 class="h3_a1">재무분석 </h3>
+<table class="list_b1" summary="평가기관,회사채,평가기준일,기업어음">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">주요재무비율</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr class="line_top">
+<th scope="row">
+												수익성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">총자본순이익율</span></th>
+<td class="ctr">9.15</td>
+<td class="ctr">7.35</td>
+<td class="ctr">6.74</td>
+<td class="ctr">15.44</td>
+<td class="ctr">15.73</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">자기자본순이익율</span></th>
+<td class="ctr">11.44</td>
+<td class="ctr">9.1</td>
+<td class="ctr">8.45</td>
+<td class="ctr">19.92</td>
+<td class="ctr">20.22</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액법인세비용차감전순이익율</span></th>
+<td class="ctr">12.54</td>
+<td class="ctr">10.62</td>
+<td class="ctr">10.99</td>
+<td class="ctr">22.56</td>
+<td class="ctr">26.06</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액순이익율</span></th>
+<td class="ctr">10.59</td>
+<td class="ctr">9.05</td>
+<td class="ctr">8.65</td>
+<td class="ctr">17.79</td>
+<td class="ctr">19.26</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액영업이익율</span></th>
+<td class="ctr">10.1</td>
+<td class="ctr">9.91</td>
+<td class="ctr">10.19</td>
+<td class="ctr">21.53</td>
+<td class="ctr">25.65</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">금융비용/매출액비율</span></th>
+<td class="ctr">0.16</td>
+<td class="ctr">0.21</td>
+<td class="ctr">0.25</td>
+<td class="ctr">0.23</td>
+<td class="ctr">0.23</td>
+</tr>
+<tr class="line_top bgc_gry">
+<th scope="row">
+												성장성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">총자산증가율</span></th>
+<td class="ctr">5.96</td>
+<td class="ctr">2.99</td>
+<td class="ctr">3.45</td>
+<td class="ctr">13.41</td>
+<td class="ctr">10.48</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">자기자본증가율</span></th>
+<td class="ctr">8.42</td>
+<td class="ctr">2.83</td>
+<td class="ctr">0.82</td>
+<td class="ctr">10.2</td>
+<td class="ctr">14.13</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출액증가율</span></th>
+<td class="ctr"><font color="red">-12.97</font></td>
+<td class="ctr"><font color="red">-1.9</font></td>
+<td class="ctr"><font color="red">-0.93</font></td>
+<td class="ctr">20.88</td>
+<td class="ctr">5.23</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">영업이익증가율</span></th>
+<td class="ctr"><font color="red">-36.14</font></td>
+<td class="ctr"><font color="red">-3.78</font></td>
+<td class="ctr">1.86</td>
+<td class="ctr">155.41</td>
+<td class="ctr">25.37</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">법인세비용차감전순이익증가율</span></th>
+<td class="ctr"><font color="red">-28.64</font></td>
+<td class="ctr"><font color="red">-16.94</font></td>
+<td class="ctr">2.6</td>
+<td class="ctr">148.1</td>
+<td class="ctr">21.53</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">순이익증가율</span></th>
+<td class="ctr"><font color="red">-18.62</font></td>
+<td class="ctr"><font color="red">-16.13</font></td>
+<td class="ctr"><font color="red">-5.38</font></td>
+<td class="ctr">148.72</td>
+<td class="ctr">13.94</td>
+</tr>
+<tr class="line_top">
+<th scope="row">
+												안정성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">영업활동현금흐름이자보상비율</span></th>
+<td class="ctr">83.06</td>
+<td class="ctr">66.89</td>
+<td class="ctr">72.35</td>
+<td class="ctr">106.35</td>
+<td class="ctr">111.57</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">영업이익이자보상비율</span></th>
+<td class="ctr">62</td>
+<td class="ctr">46.47</td>
+<td class="ctr">41.17</td>
+<td class="ctr">95.29</td>
+<td class="ctr">109.95</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">법인세차감전순이익이자보상비율</span></th>
+<td class="ctr">77.95</td>
+<td class="ctr">50.78</td>
+<td class="ctr">45.42</td>
+<td class="ctr">100.87</td>
+<td class="ctr">112.71</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">자기자본비율</span></th>
+<td class="ctr">80.87</td>
+<td class="ctr">80.74</td>
+<td class="ctr">78.69</td>
+<td class="ctr">76.46</td>
+<td class="ctr">78.98</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동비율</span></th>
+<td class="ctr">219.99</td>
+<td class="ctr">226.13</td>
+<td class="ctr">205.37</td>
+<td class="ctr">157.67</td>
+<td class="ctr">185.51</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">당좌비율</span></th>
+<td class="ctr">200.3</td>
+<td class="ctr">203.92</td>
+<td class="ctr">187.81</td>
+<td class="ctr">140.06</td>
+<td class="ctr">156.68</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">비유동자산비율</span></th>
+<td class="ctr">76.88</td>
+<td class="ctr">74.74</td>
+<td class="ctr">76.21</td>
+<td class="ctr">84.51</td>
+<td class="ctr">80.34</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">비유동자산장기적합율</span></th>
+<td class="ctr">75.09</td>
+<td class="ctr">73.18</td>
+<td class="ctr">74.49</td>
+<td class="ctr">83.31</td>
+<td class="ctr">79.02</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">부채비율</span></th>
+<td class="ctr">23.65</td>
+<td class="ctr">23.85</td>
+<td class="ctr">27.09</td>
+<td class="ctr">30.79</td>
+<td class="ctr">26.61</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동부채비율</span></th>
+<td class="ctr">21.26</td>
+<td class="ctr">21.72</td>
+<td class="ctr">24.77</td>
+<td class="ctr">29.36</td>
+<td class="ctr">24.94</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">차입금의존도</span></th>
+<td class="ctr">1.83</td>
+<td class="ctr">4.26</td>
+<td class="ctr">5.22</td>
+<td class="ctr">6.2</td>
+<td class="ctr">4.75</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">차입금/자기자본</span></th>
+<td class="ctr">2.26</td>
+<td class="ctr">5.27</td>
+<td class="ctr">6.63</td>
+<td class="ctr">8.1</td>
+<td class="ctr">6.01</td>
+</tr>
+<tr class="line_top bgc_gry">
+<th scope="row">
+												활동성 비율
+													(배)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">총자본회전율</span></th>
+<td class="ctr">0.86</td>
+<td class="ctr">0.81</td>
+<td class="ctr">0.78</td>
+<td class="ctr">0.87</td>
+<td class="ctr">0.82</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">재고자산회전율1</span></th>
+<td class="ctr">24.11</td>
+<td class="ctr">22.29</td>
+<td class="ctr">21.33</td>
+<td class="ctr">23.43</td>
+<td class="ctr">16.8</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출채권회전율</span></th>
+<td class="ctr">7.43</td>
+<td class="ctr">6.83</td>
+<td class="ctr">6.06</td>
+<td class="ctr">6.27</td>
+<td class="ctr">6.45</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매입채무회전율</span></th>
+<td class="ctr">26.45</td>
+<td class="ctr">31.57</td>
+<td class="ctr">26.65</td>
+<td class="ctr">25.78</td>
+<td class="ctr">24.85</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출채권회수기간(일)</span></th>
+<td class="ctr">48.45</td>
+<td class="ctr">52.71</td>
+<td class="ctr">59.41</td>
+<td class="ctr">57.42</td>
+<td class="ctr">55.81</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매입채무지급기간(일)</span></th>
+<td class="ctr">13.61</td>
+<td class="ctr">11.4</td>
+<td class="ctr">13.51</td>
+<td class="ctr">13.96</td>
+<td class="ctr">14.49</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">운전자금회전주기(일)</span></th>
+<td class="ctr">49.76</td>
+<td class="ctr">57.47</td>
+<td class="ctr">62.82</td>
+<td class="ctr">58.82</td>
+<td class="ctr">62.73</td>
+</tr>
+<tr class="line_top">
+<th scope="row">
+												차입금 구조
+													(억원)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">총차입금</span></th>
+<td class="ctr">29,971.34</td>
+<td class="ctr">71,955.19</td>
+<td class="ctr">91,255.63</td>
+<td class="ctr">122,817.1</td>
+<td class="ctr">104,028.29</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">단기차입금</span></th>
+<td class="ctr">29,281.82</td>
+<td class="ctr">71,275.27</td>
+<td class="ctr">90,611.67</td>
+<td class="ctr">122,297.01</td>
+<td class="ctr">103,538.73</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동성장기부채</span></th>
+<td class="ctr">53.04</td>
+<td class="ctr">56.66</td>
+<td class="ctr">58.54</td>
+<td class="ctr">52.01</td>
+<td class="ctr">54.4</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">장기차입금</span></th>
+<td class="ctr">636.48</td>
+<td class="ctr">623.26</td>
+<td class="ctr">585.42</td>
+<td class="ctr">468.08</td>
+<td class="ctr">435.16</td>
+</tr>
+</tbody>
+</table>
+<!-- select -->
+<p class="sel">
+<select id="FinS0" name="FinS0" onchange="onDisplay(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[2]
+<div class="section1 pt40" name="pht0" style="display:none">
+<h4 class="h4_b1 fl">현금흐름표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="현금흐름표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">현금흐름표</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">영업활동으로인한현금흐름</th>
+<td class="rgt">15,245,347</td>
+<td class="rgt">13,056,587</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">14,998,326</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">10,005,971</td>
+<td class="rgt">8,452,458</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">6,073,136</td>
+</tr>
+<tr>
+<th scope="row">현금유출없는비용등가산</th>
+<td class="rgt">6,151,516</td>
+<td class="rgt">7,104,212</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">6,304,285</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입없는수익등차감</th>
+<td class="rgt">1,795,226</td>
+<td class="rgt">656,874</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">564,972</td>
+</tr>
+<tr>
+<th scope="row">영업활동관련자산부채변동</th>
+<td class="rgt">1,046,333</td>
+<td class="rgt"><font color="red">-2,450,912</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">4,776,288</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">금융비용유출액</th>
+<td class="rgt">72,401</td>
+<td class="rgt">53,935</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">100,612</td>
+</tr>
+<tr>
+<th scope="row">이자수익유입액</th>
+<td class="rgt">91,316</td>
+<td class="rgt">94,118</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">98,234</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">배당금수익유입액</th>
+<td class="rgt">477,624</td>
+<td class="rgt">615,485</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">64,951</td>
+</tr>
+<tr>
+<th scope="row">법인세의납부(환급)</th>
+<td class="rgt">659,786</td>
+<td class="rgt">47,965</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">1,652,984</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-12,294,415</font></td>
+<td class="rgt"><font color="red">-2,629,346</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-9,428,122</font></td>
+</tr>
+<tr>
+<th scope="row">투자활동으로인한현금유입</th>
+<td class="rgt"><font color="red">-4,319,769</font></td>
+<td class="rgt">5,518,892</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">54,848</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금유출</th>
+<td class="rgt">7,974,646</td>
+<td class="rgt">8,148,238</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">9,482,970</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-3,143,118</font></td>
+<td class="rgt"><font color="red">-5,421,419</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-6,882,279</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재무활동으로인한현금유입</th>
+<td class="rgt"><font color="red">-151,406</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-2,676,493</font></td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금유출</th>
+<td class="rgt">2,991,712</td>
+<td class="rgt">5,421,419</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">4,205,786</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금및현금성자산의증가(감소)</th>
+<td class="rgt"><font color="red">-192,186</font></td>
+<td class="rgt">5,005,822</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-1,312,075</font></td>
+</tr>
+<tr>
+<th scope="row">기초의현금및현금성자산</th>
+<td class="rgt">-</td>
+<td class="rgt">2,763,768</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기말의현금및현금성자산</th>
+<td class="rgt"><font color="red">-192,186</font></td>
+<td class="rgt">7,769,590</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-1,312,075</font></td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_kc2" onclick="per_cha(this.value)" type="radio" value="ph"/>분기
+							<input name="period_kd2" onclick="per_cha(this.value)" type="radio" value="yh"/>연간
+							<select id="PhinS0" name="PhinS0" onchange="onDisplay6(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAPP 개별</option>
+<option value="3">K-GAPP 연결</option>
+</select>
+</p>
+</div>
+[3]
+<div class="section1 pt40" name="ppt0" style="display:none">
+<h4 class="h4_b1 fl">포괄손익계산서</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="포괄손익계산서, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">포괄손익계산서</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">수익</th>
+<td class="rgt">42,131,383</td>
+<td class="rgt">42,606,978</td>
+<td class="rgt">41,314,723</td>
+<td class="rgt">47,645,339</td>
+<td class="rgt">38,814,830</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출원가</th>
+<td class="rgt">24,038,608</td>
+<td class="rgt">25,196,260</td>
+<td class="rgt">24,606,173</td>
+<td class="rgt">27,578,197</td>
+<td class="rgt">24,285,876</td>
+</tr>
+<tr>
+<th scope="row">매출총이익(손실)</th>
+<td class="rgt">18,092,775</td>
+<td class="rgt">17,410,718</td>
+<td class="rgt">16,708,550</td>
+<td class="rgt">20,067,142</td>
+<td class="rgt">14,528,954</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">판매비와관리비</th>
+<td class="rgt">6,833,292</td>
+<td class="rgt">6,209,821</td>
+<td class="rgt">5,658,945</td>
+<td class="rgt">6,154,425</td>
+<td class="rgt">6,992,722</td>
+</tr>
+<tr>
+<th scope="row">인건비</th>
+<td class="rgt">372,073</td>
+<td class="rgt">503,509</td>
+<td class="rgt">476,159</td>
+<td class="rgt">492,683</td>
+<td class="rgt">502,098</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">일반관리비</th>
+<td class="rgt">1,066,702</td>
+<td class="rgt">830,831</td>
+<td class="rgt">438,646</td>
+<td class="rgt">814,851</td>
+<td class="rgt">741,172</td>
+</tr>
+<tr>
+<th scope="row">판매비</th>
+<td class="rgt">1,203,157</td>
+<td class="rgt">952,260</td>
+<td class="rgt">656,615</td>
+<td class="rgt">502,925</td>
+<td class="rgt">952,630</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타판매비와관리비</th>
+<td class="rgt">4,191,360</td>
+<td class="rgt">3,923,221</td>
+<td class="rgt">4,087,525</td>
+<td class="rgt">4,343,966</td>
+<td class="rgt">4,796,822</td>
+</tr>
+<tr>
+<th scope="row">영업이익(손실)</th>
+<td class="rgt">11,259,483</td>
+<td class="rgt">11,200,897</td>
+<td class="rgt">11,049,605</td>
+<td class="rgt">13,912,717</td>
+<td class="rgt">7,536,232</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">영업외수익</th>
+<td class="rgt">3,308,102</td>
+<td class="rgt">1,069,953</td>
+<td class="rgt">1,439,360</td>
+<td class="rgt">894,999</td>
+<td class="rgt">1,305,327</td>
+</tr>
+<tr>
+<th scope="row">영업외비용</th>
+<td class="rgt">2,306,845</td>
+<td class="rgt">701,873</td>
+<td class="rgt">1,394,375</td>
+<td class="rgt">920,553</td>
+<td class="rgt">993,434</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">법인세비용차감전계속영업이익(손실)</th>
+<td class="rgt">12,260,740</td>
+<td class="rgt">11,568,977</td>
+<td class="rgt">11,094,590</td>
+<td class="rgt">13,887,163</td>
+<td class="rgt">7,848,125</td>
+</tr>
+<tr>
+<th scope="row">계속영업손익법인세비용(부의법인세비용)</th>
+<td class="rgt">2,254,769</td>
+<td class="rgt">3,116,519</td>
+<td class="rgt">3,016,605</td>
+<td class="rgt">3,675,615</td>
+<td class="rgt">1,774,989</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">계속영업이익(손실)</th>
+<td class="rgt">10,005,971</td>
+<td class="rgt">8,452,458</td>
+<td class="rgt">8,077,985</td>
+<td class="rgt">10,211,548</td>
+<td class="rgt">6,073,136</td>
+</tr>
+<tr>
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">10,005,971</td>
+<td class="rgt">8,452,458</td>
+<td class="rgt">8,077,985</td>
+<td class="rgt">10,211,548</td>
+<td class="rgt">6,073,136</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타포괄손익</th>
+<td class="rgt">272,284</td>
+<td class="rgt"><font color="red">-22,220</font></td>
+<td class="rgt"><font color="red">-29,115</font></td>
+<td class="rgt">12,234</td>
+<td class="rgt"><font color="red">-339,220</font></td>
+</tr>
+<tr>
+<th scope="row">포괄손익</th>
+<td class="rgt">10,278,255</td>
+<td class="rgt">8,430,238</td>
+<td class="rgt">8,048,870</td>
+<td class="rgt">10,223,782</td>
+<td class="rgt">5,733,916</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_ke2" onclick="per_cha(this.value)" type="radio" value="pp"/>분기
+							<input name="period_kf2" onclick="per_cha(this.value)" type="radio" value="yp"/>연간
+							<select id="PpinS0" name="PpinS0" onchange="onDisplay8(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAPP 개별</option>
+<option value="3">K-GAPP 연결</option>
+</select>
+</p>
+</div>
+[4]
+<div class="section1" name="pt3">
+<h3 class="h3_b1">재무제표</h3>
+<h4 class="h4_b1 fl">재무상태표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="재무상태표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">재무상태표</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">유동자산(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">154,941,953</td>
+<td class="rgt">156,976,839</td>
+<td class="rgt">176,282,049</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당좌자산(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">128,471,082</td>
+<td class="rgt">129,618,072</td>
+<td class="rgt">148,039,242</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">(당좌자산대손충당금(계))</th>
+<td class="rgt">-</td>
+<td class="rgt">622,768</td>
+<td class="rgt">611,911</td>
+<td class="rgt">742,007</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금및현금등가물</th>
+<td class="rgt">-</td>
+<td class="rgt">32,303,752</td>
+<td class="rgt">31,362,222</td>
+<td class="rgt">33,088,093</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">단기투자증권</th>
+<td class="rgt">-</td>
+<td class="rgt">3,733,160</td>
+<td class="rgt">3,896,630</td>
+<td class="rgt">3,446,114</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재고자산(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">26,470,871</td>
+<td class="rgt">27,358,767</td>
+<td class="rgt">28,242,807</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">비유동자산(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">157,531,160</td>
+<td class="rgt">161,711,541</td>
+<td class="rgt">160,913,737</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자자산(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">14,693,144</td>
+<td class="rgt">15,224,534</td>
+<td class="rgt">15,869,151</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">유형자산(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">114,412,258</td>
+<td class="rgt">116,576,140</td>
+<td class="rgt">115,003,148</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">건설중인자산</th>
+<td class="rgt">-</td>
+<td class="rgt">16,856,832</td>
+<td class="rgt">15,157,766</td>
+<td class="rgt">10,260,479</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">무형자산(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">14,805,407</td>
+<td class="rgt">14,999,464</td>
+<td class="rgt">14,800,096</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타비유동자산(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">13,620,351</td>
+<td class="rgt">14,911,403</td>
+<td class="rgt">15,241,342</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">자산총계</th>
+<td class="rgt">-</td>
+<td class="rgt">312,473,113</td>
+<td class="rgt">318,688,380</td>
+<td class="rgt">337,195,786</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동부채(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">68,298,586</td>
+<td class="rgt">65,602,323</td>
+<td class="rgt">74,705,872</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">단기차입금</th>
+<td class="rgt">-</td>
+<td class="rgt">9,973,335</td>
+<td class="rgt">13,176,014</td>
+<td class="rgt">18,826,524</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동성장기부채</th>
+<td class="rgt">-</td>
+<td class="rgt">15,631</td>
+<td class="rgt">1,859,552</td>
+<td class="rgt">1,799,346</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">유동성사채</th>
+<td class="rgt">-</td>
+<td class="rgt">5,184</td>
+<td class="rgt">5,459</td>
+<td class="rgt">5,422</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">비유동부채(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">20,914,647</td>
+<td class="rgt">19,961,212</td>
+<td class="rgt">20,386,754</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">장기사채(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">961,780</td>
+<td class="rgt">978,754</td>
+<td class="rgt">972,435</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">장기차입금(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">1,910,470</td>
+<td class="rgt">92,635</td>
+<td class="rgt">87,101</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">장기부채성충당부채(계)</th>
+<td class="rgt">-</td>
+<td class="rgt">938,908</td>
+<td class="rgt">1,059,769</td>
+<td class="rgt">1,647,238</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">부채총계</th>
+<td class="rgt">-</td>
+<td class="rgt">89,213,233</td>
+<td class="rgt">85,563,535</td>
+<td class="rgt">95,092,626</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">자본금</th>
+<td class="rgt">-</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">보통주자본금</th>
+<td class="rgt">-</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">자본잉여금</th>
+<td class="rgt">-</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본조정</th>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-4,878,000</font></td>
+<td class="rgt"><font color="red">-4,828,486</font></td>
+<td class="rgt"><font color="red">-4,833,663</font></td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">기타포괄손익누계액</th>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-7,024,300</font></td>
+<td class="rgt"><font color="red">-5,866,677</font></td>
+<td class="rgt"><font color="red">-7,619,686</font></td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">이익잉여금</th>
+<td class="rgt">-</td>
+<td class="rgt">222,485,398</td>
+<td class="rgt">231,065,173</td>
+<td class="rgt">241,628,322</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">자본총계</th>
+<td class="rgt">-</td>
+<td class="rgt">223,259,880</td>
+<td class="rgt">233,124,845</td>
+<td class="rgt">242,103,160</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">부채와자본총계</th>
+<td class="rgt">-</td>
+<td class="rgt">312,473,113</td>
+<td class="rgt">318,688,380</td>
+<td class="rgt">337,195,786</td>
+<td class="rgt">-</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_ka8" onclick="per_cha(this.value)" type="radio" value="p"/>분기
+							<input name="period_kb8" onclick="per_cha(this.value)" type="radio" value="y"/>연간
+							<select id="PinS3" name="PinS3" onchange="onDisplay4(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[5]
+<div class="section1">
+<h3 class="h3_a1">
+							재무분석
+						</h3>
+<table class="list_b1" summary="평가기관,회사채,평가기준일,기업어음">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">주요재무비율</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr class="line_top">
+<th scope="row">수익성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">총자본순이익율</span></th>
+<td class="ctr">9.15</td>
+<td class="ctr">7.35</td>
+<td class="ctr">6.74</td>
+<td class="ctr">15.44</td>
+<td class="ctr">15.73</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">자기자본순이익율</span></th>
+<td class="ctr">11.44</td>
+<td class="ctr">9.1</td>
+<td class="ctr">8.45</td>
+<td class="ctr">19.92</td>
+<td class="ctr">20.22</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액법인세비용차감전순이익율</span></th>
+<td class="ctr">12.54</td>
+<td class="ctr">10.62</td>
+<td class="ctr">10.99</td>
+<td class="ctr">22.56</td>
+<td class="ctr">26.06</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액순이익율</span></th>
+<td class="ctr">10.59</td>
+<td class="ctr">9.05</td>
+<td class="ctr">8.65</td>
+<td class="ctr">17.79</td>
+<td class="ctr">19.26</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액영업이익율</span></th>
+<td class="ctr">10.1</td>
+<td class="ctr">9.91</td>
+<td class="ctr">10.19</td>
+<td class="ctr">21.53</td>
+<td class="ctr">25.65</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">금융비용/매출액비율</span></th>
+<td class="ctr">0.16</td>
+<td class="ctr">0.21</td>
+<td class="ctr">0.25</td>
+<td class="ctr">0.23</td>
+<td class="ctr">0.23</td>
+</tr>
+<tr class="line_top bgc_gry">
+<th scope="row">성장성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">총자산증가율</span></th>
+<td class="ctr">5.96</td>
+<td class="ctr">2.99</td>
+<td class="ctr">3.45</td>
+<td class="ctr">13.41</td>
+<td class="ctr">10.48</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">자기자본증가율</span></th>
+<td class="ctr">8.42</td>
+<td class="ctr">2.83</td>
+<td class="ctr">0.82</td>
+<td class="ctr">10.2</td>
+<td class="ctr">14.13</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출액증가율</span></th>
+<td class="ctr"><font color="red">-12.97</font></td>
+<td class="ctr"><font color="red">-1.9</font></td>
+<td class="ctr"><font color="red">-0.93</font></td>
+<td class="ctr">20.88</td>
+<td class="ctr">5.23</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">영업이익증가율</span></th>
+<td class="ctr"><font color="red">-36.14</font></td>
+<td class="ctr"><font color="red">-3.78</font></td>
+<td class="ctr">1.86</td>
+<td class="ctr">155.41</td>
+<td class="ctr">25.37</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">법인세비용차감전순이익증가율</span></th>
+<td class="ctr"><font color="red">-28.64</font></td>
+<td class="ctr"><font color="red">-16.94</font></td>
+<td class="ctr">2.6</td>
+<td class="ctr">148.1</td>
+<td class="ctr">21.53</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">순이익증가율</span></th>
+<td class="ctr"><font color="red">-18.62</font></td>
+<td class="ctr"><font color="red">-16.13</font></td>
+<td class="ctr"><font color="red">-5.38</font></td>
+<td class="ctr">148.72</td>
+<td class="ctr">13.94</td>
+</tr>
+<tr class="line_top">
+<th scope="row">안정성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">영업활동현금흐름이자보상비율</span></th>
+<td class="ctr">83.06</td>
+<td class="ctr">66.89</td>
+<td class="ctr">72.35</td>
+<td class="ctr">106.35</td>
+<td class="ctr">111.57</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">영업이익이자보상비율</span></th>
+<td class="ctr">62</td>
+<td class="ctr">46.47</td>
+<td class="ctr">41.17</td>
+<td class="ctr">95.29</td>
+<td class="ctr">109.95</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">법인세차감전순이익이자보상비율</span></th>
+<td class="ctr">77.95</td>
+<td class="ctr">50.78</td>
+<td class="ctr">45.42</td>
+<td class="ctr">100.87</td>
+<td class="ctr">112.71</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">자기자본비율</span></th>
+<td class="ctr">80.87</td>
+<td class="ctr">80.74</td>
+<td class="ctr">78.69</td>
+<td class="ctr">76.46</td>
+<td class="ctr">78.98</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동비율</span></th>
+<td class="ctr">219.99</td>
+<td class="ctr">226.13</td>
+<td class="ctr">205.37</td>
+<td class="ctr">157.67</td>
+<td class="ctr">185.51</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">당좌비율</span></th>
+<td class="ctr">200.3</td>
+<td class="ctr">203.92</td>
+<td class="ctr">187.81</td>
+<td class="ctr">140.06</td>
+<td class="ctr">156.68</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">비유동자산비율</span></th>
+<td class="ctr">76.88</td>
+<td class="ctr">74.74</td>
+<td class="ctr">76.21</td>
+<td class="ctr">84.51</td>
+<td class="ctr">80.34</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">비유동자산장기적합율</span></th>
+<td class="ctr">75.09</td>
+<td class="ctr">73.18</td>
+<td class="ctr">74.49</td>
+<td class="ctr">83.31</td>
+<td class="ctr">79.02</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">부채비율</span></th>
+<td class="ctr">23.65</td>
+<td class="ctr">23.85</td>
+<td class="ctr">27.09</td>
+<td class="ctr">30.79</td>
+<td class="ctr">26.61</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동부채비율</span></th>
+<td class="ctr">21.26</td>
+<td class="ctr">21.72</td>
+<td class="ctr">24.77</td>
+<td class="ctr">29.36</td>
+<td class="ctr">24.94</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">차입금의존도</span></th>
+<td class="ctr">1.83</td>
+<td class="ctr">4.26</td>
+<td class="ctr">5.22</td>
+<td class="ctr">6.2</td>
+<td class="ctr">4.75</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">차입금/자기자본</span></th>
+<td class="ctr">2.26</td>
+<td class="ctr">5.27</td>
+<td class="ctr">6.63</td>
+<td class="ctr">8.1</td>
+<td class="ctr">6.01</td>
+</tr>
+<tr class="line_top bgc_gry">
+<th scope="row">활동성 비율
+													(배)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">총자본회전율</span></th>
+<td class="ctr">0.86</td>
+<td class="ctr">0.81</td>
+<td class="ctr">0.78</td>
+<td class="ctr">0.87</td>
+<td class="ctr">0.82</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">재고자산회전율1</span></th>
+<td class="ctr">24.11</td>
+<td class="ctr">22.29</td>
+<td class="ctr">21.33</td>
+<td class="ctr">23.43</td>
+<td class="ctr">16.8</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출채권회전율</span></th>
+<td class="ctr">7.43</td>
+<td class="ctr">6.83</td>
+<td class="ctr">6.06</td>
+<td class="ctr">6.27</td>
+<td class="ctr">6.45</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매입채무회전율</span></th>
+<td class="ctr">26.45</td>
+<td class="ctr">31.57</td>
+<td class="ctr">26.65</td>
+<td class="ctr">25.78</td>
+<td class="ctr">24.85</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출채권회수기간(일)</span></th>
+<td class="ctr">48.45</td>
+<td class="ctr">52.71</td>
+<td class="ctr">59.41</td>
+<td class="ctr">57.42</td>
+<td class="ctr">55.81</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매입채무지급기간(일)</span></th>
+<td class="ctr">13.61</td>
+<td class="ctr">11.4</td>
+<td class="ctr">13.51</td>
+<td class="ctr">13.96</td>
+<td class="ctr">14.49</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">운전자금회전주기(일)</span></th>
+<td class="ctr">49.76</td>
+<td class="ctr">57.47</td>
+<td class="ctr">62.82</td>
+<td class="ctr">58.82</td>
+<td class="ctr">62.73</td>
+</tr>
+<tr class="line_top">
+<th scope="row">차입금 구조
+													(억원)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">총차입금</span></th>
+<td class="ctr">29,971.34</td>
+<td class="ctr">71,955.19</td>
+<td class="ctr">91,255.63</td>
+<td class="ctr">122,817.1</td>
+<td class="ctr">104,028.29</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">단기차입금</span></th>
+<td class="ctr">29,281.82</td>
+<td class="ctr">71,275.27</td>
+<td class="ctr">90,611.67</td>
+<td class="ctr">122,297.01</td>
+<td class="ctr">103,538.73</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동성장기부채</span></th>
+<td class="ctr">53.04</td>
+<td class="ctr">56.66</td>
+<td class="ctr">58.54</td>
+<td class="ctr">52.01</td>
+<td class="ctr">54.4</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">장기차입금</span></th>
+<td class="ctr">636.48</td>
+<td class="ctr">623.26</td>
+<td class="ctr">585.42</td>
+<td class="ctr">468.08</td>
+<td class="ctr">435.16</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<select id="FinS2" name="FinS2" onchange="onDisplay(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[6]
+<div class="section1 pt40" name="yht3">
+<h4 class="h4_b1 fl">현금흐름표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="현금흐름표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">현금흐름표</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">영업활동으로인한현금흐름</th>
+<td class="rgt">36,975,389</td>
+<td class="rgt">40,061,761</td>
+<td class="rgt">47,385,644</td>
+<td class="rgt">62,162,041</td>
+<td class="rgt">67,031,863</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">23,394,358</td>
+<td class="rgt">19,060,144</td>
+<td class="rgt">22,726,092</td>
+<td class="rgt">42,186,747</td>
+<td class="rgt">44,344,857</td>
+</tr>
+<tr>
+<th scope="row">현금유출없는비용등가산</th>
+<td class="rgt">20,601,517</td>
+<td class="rgt">28,907,304</td>
+<td class="rgt">30,516,813</td>
+<td class="rgt">34,137,820</td>
+<td class="rgt">35,437,900</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입없는수익등차감</th>
+<td class="rgt">3,183,350</td>
+<td class="rgt">3,223,655</td>
+<td class="rgt">4,676,308</td>
+<td class="rgt">3,541,979</td>
+<td class="rgt">2,826,528</td>
+</tr>
+<tr>
+<th scope="row">영업활동관련자산부채변동</th>
+<td class="rgt"><font color="red">-3,837,136</font></td>
+<td class="rgt"><font color="red">-4,682,032</font></td>
+<td class="rgt"><font color="red">-1,180,953</font></td>
+<td class="rgt"><font color="red">-10,620,547</font></td>
+<td class="rgt"><font color="red">-9,924,366</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-32,806,408</font></td>
+<td class="rgt"><font color="red">-27,167,787</font></td>
+<td class="rgt"><font color="red">-29,658,675</font></td>
+<td class="rgt"><font color="red">-49,385,216</font></td>
+<td class="rgt"><font color="red">-52,240,453</font></td>
+</tr>
+<tr>
+<th scope="row">투자활동으로인한현금유입</th>
+<td class="rgt">2,634,675</td>
+<td class="rgt">7,401,073</td>
+<td class="rgt">8,388,178</td>
+<td class="rgt">4,743,377</td>
+<td class="rgt">921,255</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금유출</th>
+<td class="rgt">35,441,083</td>
+<td class="rgt">34,568,860</td>
+<td class="rgt">38,046,853</td>
+<td class="rgt">54,128,593</td>
+<td class="rgt">53,161,708</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-3,057,109</font></td>
+<td class="rgt"><font color="red">-6,573,509</font></td>
+<td class="rgt"><font color="red">-8,669,514</font></td>
+<td class="rgt"><font color="red">-12,560,867</font></td>
+<td class="rgt"><font color="red">-15,090,222</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재무활동으로인한현금유입</th>
+<td class="rgt">3,601,713</td>
+<td class="rgt">3,397,924</td>
+<td class="rgt">2,406,012</td>
+<td class="rgt">3,734,657</td>
+<td class="rgt">11,651</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금유출</th>
+<td class="rgt">6,658,822</td>
+<td class="rgt">9,971,433</td>
+<td class="rgt">11,075,526</td>
+<td class="rgt">16,295,524</td>
+<td class="rgt">15,101,873</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금의증가(감소)</th>
+<td class="rgt">1,111,872</td>
+<td class="rgt">6,320,465</td>
+<td class="rgt">9,057,455</td>
+<td class="rgt">215,958</td>
+<td class="rgt"><font color="red">-298,812</font></td>
+</tr>
+<tr>
+<th scope="row">환율변동으로인한차이조정</th>
+<td class="rgt"><font color="red">-555,886</font></td>
+<td class="rgt"><font color="red">-524,487</font></td>
+<td class="rgt">417,243</td>
+<td class="rgt"><font color="red">-1,782,270</font></td>
+<td class="rgt">94,187</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기초의현금</th>
+<td class="rgt">16,284,780</td>
+<td class="rgt">16,840,766</td>
+<td class="rgt">22,636,744</td>
+<td class="rgt">32,111,442</td>
+<td class="rgt">30,545,130</td>
+</tr>
+<tr>
+<th scope="row">기말의현금</th>
+<td class="rgt">16,840,766</td>
+<td class="rgt">22,636,744</td>
+<td class="rgt">32,111,442</td>
+<td class="rgt">30,545,130</td>
+<td class="rgt">30,340,505</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입과유출없는거래</th>
+<td class="rgt">22,516,107</td>
+<td class="rgt">31,377,101</td>
+<td class="rgt">21,450,590</td>
+<td class="rgt">48,554,810</td>
+<td class="rgt">33,117,353</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_kc7" onclick="per_cha(this.value)" type="radio" value="ph"/>분기
+							<input checked="" name="period_kd7" onclick="per_cha(this.value)" type="radio" value="yh"/>연간
+							<select id="ShinS3" name="ShinS3" onchange="onDisplay5(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p></div>
+[7]
+<div class="section1" name="yt2">
+<h3 class="h3_b1">재무제표</h3>
+<h4 class="h4_b1 fl">재무상태표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="재무상태표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">재무상태표</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">유동자산(계)</th>
+<td class="rgt">62,054,773</td>
+<td class="rgt">67,002,055</td>
+<td class="rgt">69,981,128</td>
+<td class="rgt">70,155,189</td>
+<td class="rgt">80,039,455</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당좌자산(계)</th>
+<td class="rgt">56,500,939</td>
+<td class="rgt">60,423,943</td>
+<td class="rgt">63,999,494</td>
+<td class="rgt">62,318,045</td>
+<td class="rgt">67,598,504</td>
+</tr>
+<tr>
+<th scope="row">(당좌자산대손충당금(계))</th>
+<td class="rgt">195,985</td>
+<td class="rgt">212,384</td>
+<td class="rgt">257,769</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금및현금등가물</th>
+<td class="rgt">1,643,318</td>
+<td class="rgt">3,062,960</td>
+<td class="rgt">3,778,371</td>
+<td class="rgt">2,763,768</td>
+<td class="rgt">2,607,957</td>
+</tr>
+<tr>
+<th scope="row">단기투자증권</th>
+<td class="rgt">2,137,533</td>
+<td class="rgt">3,021,210</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재고자산(계)</th>
+<td class="rgt">5,553,834</td>
+<td class="rgt">6,578,112</td>
+<td class="rgt">5,981,634</td>
+<td class="rgt">7,837,144</td>
+<td class="rgt">12,440,951</td>
+</tr>
+<tr>
+<th scope="row">비유동자산(계)</th>
+<td class="rgt">102,005,810</td>
+<td class="rgt">101,967,575</td>
+<td class="rgt">104,821,831</td>
+<td class="rgt">128,086,171</td>
+<td class="rgt">138,981,902</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자자산(계)</th>
+<td class="rgt">48,963,665</td>
+<td class="rgt">47,312,681</td>
+<td class="rgt">49,657,068</td>
+<td class="rgt">56,645,112</td>
+<td class="rgt">57,065,723</td>
+</tr>
+<tr>
+<th scope="row">유형자산(계)</th>
+<td class="rgt">43,744,259</td>
+<td class="rgt">45,148,629</td>
+<td class="rgt">47,228,830</td>
+<td class="rgt">62,816,961</td>
+<td class="rgt">70,602,493</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">건설중인자산</th>
+<td class="rgt">9,290,646</td>
+<td class="rgt">5,457,754</td>
+<td class="rgt">11,004,840</td>
+<td class="rgt">9,139,495</td>
+<td class="rgt">6,380,213</td>
+</tr>
+<tr>
+<th scope="row">무형자산(계)</th>
+<td class="rgt">3,051,564</td>
+<td class="rgt">3,407,229</td>
+<td class="rgt">2,891,844</td>
+<td class="rgt">2,827,035</td>
+<td class="rgt">2,901,476</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타비유동자산(계)</th>
+<td class="rgt">6,246,322</td>
+<td class="rgt">6,099,036</td>
+<td class="rgt">5,044,089</td>
+<td class="rgt">5,797,063</td>
+<td class="rgt">8,412,210</td>
+</tr>
+<tr>
+<th scope="row">자산총계</th>
+<td class="rgt">164,060,583</td>
+<td class="rgt">168,969,630</td>
+<td class="rgt">174,802,959</td>
+<td class="rgt">198,241,360</td>
+<td class="rgt">219,021,357</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동부채(계)</th>
+<td class="rgt">28,208,638</td>
+<td class="rgt">29,630,488</td>
+<td class="rgt">34,076,122</td>
+<td class="rgt">44,495,084</td>
+<td class="rgt">43,145,053</td>
+</tr>
+<tr>
+<th scope="row">단기차입금</th>
+<td class="rgt">2,928,182</td>
+<td class="rgt">7,127,527</td>
+<td class="rgt">9,061,167</td>
+<td class="rgt">12,229,701</td>
+<td class="rgt">10,353,873</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동성장기부채</th>
+<td class="rgt">5,304</td>
+<td class="rgt">5,666</td>
+<td class="rgt">5,854</td>
+<td class="rgt">5,201</td>
+<td class="rgt">5,440</td>
+</tr>
+<tr>
+<th scope="row">유동성사채</th>
+<td class="rgt">5,304</td>
+<td class="rgt">5,666</td>
+<td class="rgt">5,854</td>
+<td class="rgt">5,201</td>
+<td class="rgt">5,440</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">비유동부채(계)</th>
+<td class="rgt">3,174,870</td>
+<td class="rgt">2,910,887</td>
+<td class="rgt">3,180,075</td>
+<td class="rgt">2,176,501</td>
+<td class="rgt">2,888,179</td>
+</tr>
+<tr>
+<th scope="row">장기사채(계)</th>
+<td class="rgt">63,648</td>
+<td class="rgt">62,326</td>
+<td class="rgt">58,542</td>
+<td class="rgt">46,808</td>
+<td class="rgt">43,516</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">장기부채성충당부채(계)</th>
+<td class="rgt">437,974</td>
+<td class="rgt">457,290</td>
+<td class="rgt">312,467</td>
+<td class="rgt">379,201</td>
+<td class="rgt">372,217</td>
+</tr>
+<tr>
+<th scope="row">부채총계</th>
+<td class="rgt">31,383,508</td>
+<td class="rgt">32,541,375</td>
+<td class="rgt">37,256,197</td>
+<td class="rgt">46,671,585</td>
+<td class="rgt">46,033,232</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본금</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr>
+<th scope="row">보통주자본금</th>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본잉여금</th>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+</tr>
+<tr>
+<th scope="row">자본조정</th>
+<td class="rgt"><font color="red">-6,644,709</font></td>
+<td class="rgt"><font color="red">-11,658,174</font></td>
+<td class="rgt"><font color="red">-7,989,918</font></td>
+<td class="rgt"><font color="red">-4,467,779</font></td>
+<td class="rgt">1,760,408</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타포괄손익누계액</th>
+<td class="rgt"><font color="red">-443,812</font></td>
+<td class="rgt"><font color="red">-844,155</font></td>
+<td class="rgt"><font color="red">-512,301</font></td>
+<td class="rgt"><font color="red">-192,577</font></td>
+<td class="rgt"><font color="red">-629,222</font></td>
+</tr>
+<tr>
+<th scope="row">이익잉여금</th>
+<td class="rgt">134,464,189</td>
+<td class="rgt">143,629,177</td>
+<td class="rgt">140,747,574</td>
+<td class="rgt">150,928,724</td>
+<td class="rgt">166,555,532</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본총계</th>
+<td class="rgt">132,677,075</td>
+<td class="rgt">136,428,255</td>
+<td class="rgt">137,546,762</td>
+<td class="rgt">151,569,775</td>
+<td class="rgt">172,988,125</td>
+</tr>
+<tr>
+<th scope="row">부채와자본총계</th>
+<td class="rgt">164,060,583</td>
+<td class="rgt">168,969,630</td>
+<td class="rgt">174,802,959</td>
+<td class="rgt">198,241,360</td>
+<td class="rgt">219,021,357</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_ka5" onclick="per_cha(this.value)" type="radio" value="p"/>분기
+							<input checked="" name="period_kb5" onclick="per_cha(this.value)" type="radio" value="y"/>연간
+							<select id="SinS2" name="SinS2" onchange="onDisplay2(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[8]
+<div class="section1 pt40" name="pht1" style="display:none">
+<h4 class="h4_b1 fl">현금흐름표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="현금흐름표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">현금흐름표</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">영업활동으로인한현금흐름</th>
+<td class="rgt">21,691,546</td>
+<td class="rgt">15,616,352</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">22,428,080</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">12,255,131</td>
+<td class="rgt">11,688,544</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">8,462,186</td>
+</tr>
+<tr>
+<th scope="row">현금유출없는비용등가산</th>
+<td class="rgt">11,483,437</td>
+<td class="rgt">12,753,040</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">10,665,001</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입없는수익등차감</th>
+<td class="rgt">2,027,691</td>
+<td class="rgt">1,612,532</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">1,197,742</td>
+</tr>
+<tr>
+<th scope="row">영업활동관련자산부채변동</th>
+<td class="rgt">1,116,993</td>
+<td class="rgt"><font color="red">-6,802,521</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">6,347,127</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">금융비용유출액</th>
+<td class="rgt">120,807</td>
+<td class="rgt">89,829</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">180,566</td>
+</tr>
+<tr>
+<th scope="row">이자수익유입액</th>
+<td class="rgt">267,035</td>
+<td class="rgt">331,422</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">514,686</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">배당금수익유입액</th>
+<td class="rgt">27,599</td>
+<td class="rgt">28,754</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">28,227</td>
+</tr>
+<tr>
+<th scope="row">법인세의납부(환급)</th>
+<td class="rgt">1,310,151</td>
+<td class="rgt">680,526</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">2,210,839</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-18,327,866</font></td>
+<td class="rgt"><font color="red">-7,373,336</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-15,763,188</font></td>
+</tr>
+<tr>
+<th scope="row">투자활동으로인한현금유입</th>
+<td class="rgt"><font color="red">-7,103,033</font></td>
+<td class="rgt">3,803,599</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">110,607</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금유출</th>
+<td class="rgt">11,224,833</td>
+<td class="rgt">11,176,935</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">15,873,795</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-2,115,879</font></td>
+<td class="rgt"><font color="red">-6,929,313</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-9,401,145</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재무활동으로인한현금유입</th>
+<td class="rgt">916,245</td>
+<td class="rgt">7,188</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-3,193,161</font></td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금유출</th>
+<td class="rgt">3,032,124</td>
+<td class="rgt">6,936,501</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">6,207,984</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">환율변동으로인한차이조정</th>
+<td class="rgt"><font color="red">-1,490,897</font></td>
+<td class="rgt">444,919</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-11,335</font></td>
+</tr>
+<tr>
+<th scope="row">현금및현금성자산의증가(감소)</th>
+<td class="rgt">1,247,801</td>
+<td class="rgt">1,313,703</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-2,736,253</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기초의현금및현금성자산</th>
+<td class="rgt">-</td>
+<td class="rgt">30,545,130</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">기말의현금및현금성자산</th>
+<td class="rgt"><font color="red">-243,096</font></td>
+<td class="rgt">32,303,752</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-2,747,588</font></td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_kc4" onclick="per_cha(this.value)" type="radio" value="ph"/>분기
+							<input name="period_kd4" onclick="per_cha(this.value)" type="radio" value="yh"/>연간
+							<select id="PhinS1" name="PhinS1" onchange="onDisplay6(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[9]
+<div class="section1 pt40" name="ypt1">
+<h4 class="h4_b1 fl">포괄손익계산서</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="포괄손익계산서, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">포괄손익계산서</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">수익</th>
+<td class="rgt">206,205,987</td>
+<td class="rgt">200,653,482</td>
+<td class="rgt">201,866,745</td>
+<td class="rgt">239,575,376</td>
+<td class="rgt">243,771,415</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출원가</th>
+<td class="rgt">128,278,800</td>
+<td class="rgt">123,482,118</td>
+<td class="rgt">120,277,715</td>
+<td class="rgt">129,290,661</td>
+<td class="rgt">132,394,411</td>
+</tr>
+<tr>
+<th scope="row">매출총이익(손실)</th>
+<td class="rgt">77,927,187</td>
+<td class="rgt">77,171,364</td>
+<td class="rgt">81,589,030</td>
+<td class="rgt">110,284,715</td>
+<td class="rgt">111,377,004</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">판매비와관리비</th>
+<td class="rgt">52,902,116</td>
+<td class="rgt">50,757,922</td>
+<td class="rgt">52,348,358</td>
+<td class="rgt">56,639,677</td>
+<td class="rgt">52,490,335</td>
+</tr>
+<tr>
+<th scope="row">인건비</th>
+<td class="rgt">5,514,947</td>
+<td class="rgt">5,838,353</td>
+<td class="rgt">5,976,261</td>
+<td class="rgt">6,797,163</td>
+<td class="rgt">6,451,395</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">일반관리비</th>
+<td class="rgt">9,169,816</td>
+<td class="rgt">9,154,469</td>
+<td class="rgt">8,782,736</td>
+<td class="rgt">8,651,504</td>
+<td class="rgt">6,763,555</td>
+</tr>
+<tr>
+<th scope="row">판매비</th>
+<td class="rgt">18,469,118</td>
+<td class="rgt">17,237,197</td>
+<td class="rgt">18,599,959</td>
+<td class="rgt">19,267,293</td>
+<td class="rgt">16,340,150</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타판매비와관리비</th>
+<td class="rgt">19,748,235</td>
+<td class="rgt">18,527,903</td>
+<td class="rgt">18,989,402</td>
+<td class="rgt">21,923,717</td>
+<td class="rgt">22,935,235</td>
+</tr>
+<tr>
+<th scope="row">영업이익(손실)</th>
+<td class="rgt">25,025,071</td>
+<td class="rgt">26,413,442</td>
+<td class="rgt">29,240,672</td>
+<td class="rgt">53,645,038</td>
+<td class="rgt">58,886,669</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">영업외수익</th>
+<td class="rgt">12,471,528</td>
+<td class="rgt">13,313,420</td>
+<td class="rgt">14,736,378</td>
+<td class="rgt">12,981,086</td>
+<td class="rgt">12,024,203</td>
+</tr>
+<tr>
+<th scope="row">영업외비용</th>
+<td class="rgt">9,621,565</td>
+<td class="rgt">13,765,867</td>
+<td class="rgt">13,263,398</td>
+<td class="rgt">10,430,157</td>
+<td class="rgt">9,750,914</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">법인세비용차감전계속영업이익(손실)</th>
+<td class="rgt">27,875,034</td>
+<td class="rgt">25,960,995</td>
+<td class="rgt">30,713,652</td>
+<td class="rgt">56,195,967</td>
+<td class="rgt">61,159,958</td>
+</tr>
+<tr>
+<th scope="row">계속영업손익법인세비용(부의법인세비용)</th>
+<td class="rgt">4,480,676</td>
+<td class="rgt">6,900,851</td>
+<td class="rgt">7,987,560</td>
+<td class="rgt">14,009,220</td>
+<td class="rgt">16,815,101</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">계속영업이익(손실)</th>
+<td class="rgt">23,394,358</td>
+<td class="rgt">19,060,144</td>
+<td class="rgt">22,726,092</td>
+<td class="rgt">42,186,747</td>
+<td class="rgt">44,344,857</td>
+</tr>
+<tr>
+<th scope="row">총당기순이익</th>
+<td class="rgt">23,394,358</td>
+<td class="rgt">19,060,144</td>
+<td class="rgt">22,726,092</td>
+<td class="rgt">42,186,747</td>
+<td class="rgt">44,344,857</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익지배기업지분</th>
+<td class="rgt">23,082,499</td>
+<td class="rgt">18,694,628</td>
+<td class="rgt">22,415,655</td>
+<td class="rgt">41,344,569</td>
+<td class="rgt">43,890,877</td>
+</tr>
+<tr>
+<th scope="row">당기순이익비지배지분(소수주주지분)</th>
+<td class="rgt">311,859</td>
+<td class="rgt">365,516</td>
+<td class="rgt">310,437</td>
+<td class="rgt">842,178</td>
+<td class="rgt">453,980</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타포괄손익</th>
+<td class="rgt"><font color="red">-1,993,414</font></td>
+<td class="rgt">76,071</td>
+<td class="rgt">1,991,400</td>
+<td class="rgt"><font color="red">-5,502,257</font></td>
+<td class="rgt"><font color="red">-12,242</font></td>
+</tr>
+<tr>
+<th scope="row">포괄손익</th>
+<td class="rgt">21,400,944</td>
+<td class="rgt">19,136,215</td>
+<td class="rgt">24,717,492</td>
+<td class="rgt">36,684,490</td>
+<td class="rgt">44,332,615</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">포괄손익지배기업지분</th>
+<td class="rgt">20,990,732</td>
+<td class="rgt">18,804,189</td>
+<td class="rgt">24,310,814</td>
+<td class="rgt">35,887,505</td>
+<td class="rgt">43,882,473</td>
+</tr>
+<tr>
+<th scope="row">포괄손익비지배지분(소수주주지분)</th>
+<td class="rgt">410,212</td>
+<td class="rgt">332,026</td>
+<td class="rgt">406,678</td>
+<td class="rgt">796,985</td>
+<td class="rgt">450,142</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_ke3" onclick="per_cha(this.value)" type="radio" value="pp"/>분기
+							<input checked="" name="period_kf3" onclick="per_cha(this.value)" type="radio" value="yp"/>연간
+							<select id="SpinS1" name="SpinS1" onchange="onDisplay7(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[10]
+<div class="section1 pt40" name="yht1">
+<h4 class="h4_b1 fl">현금흐름표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="현금흐름표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">현금흐름표</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">영업활동으로인한현금흐름</th>
+<td class="rgt">36,975,389</td>
+<td class="rgt">40,061,761</td>
+<td class="rgt">47,385,644</td>
+<td class="rgt">62,162,041</td>
+<td class="rgt">67,031,863</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">23,394,358</td>
+<td class="rgt">19,060,144</td>
+<td class="rgt">22,726,092</td>
+<td class="rgt">42,186,747</td>
+<td class="rgt">44,344,857</td>
+</tr>
+<tr>
+<th scope="row">현금유출없는비용등가산</th>
+<td class="rgt">28,558,146</td>
+<td class="rgt">35,252,736</td>
+<td class="rgt">37,092,715</td>
+<td class="rgt">41,507,633</td>
+<td class="rgt">48,435,613</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입없는수익등차감</th>
+<td class="rgt">6,234,381</td>
+<td class="rgt">5,641,765</td>
+<td class="rgt">6,338,244</td>
+<td class="rgt">5,296,401</td>
+<td class="rgt">4,831,040</td>
+</tr>
+<tr>
+<th scope="row">영업활동관련자산부채변동</th>
+<td class="rgt"><font color="red">-3,837,136</font></td>
+<td class="rgt"><font color="red">-4,682,032</font></td>
+<td class="rgt"><font color="red">-1,180,953</font></td>
+<td class="rgt"><font color="red">-10,620,547</font></td>
+<td class="rgt"><font color="red">-9,924,366</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">금융비용유출액</th>
+<td class="rgt">463,740</td>
+<td class="rgt">748,256</td>
+<td class="rgt">443,838</td>
+<td class="rgt">542,715</td>
+<td class="rgt">548,272</td>
+</tr>
+<tr>
+<th scope="row">이자수익유입액</th>
+<td class="rgt">1,555,373</td>
+<td class="rgt">2,151,741</td>
+<td class="rgt">1,405,085</td>
+<td class="rgt">1,581,117</td>
+<td class="rgt">1,788,520</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">배당금수익유입액</th>
+<td class="rgt">1,495,658</td>
+<td class="rgt">266,369</td>
+<td class="rgt">256,851</td>
+<td class="rgt">173,305</td>
+<td class="rgt">215,992</td>
+</tr>
+<tr>
+<th scope="row">법인세의납부(환급)</th>
+<td class="rgt">7,492,889</td>
+<td class="rgt">5,597,176</td>
+<td class="rgt">6,132,064</td>
+<td class="rgt">6,827,098</td>
+<td class="rgt">12,449,441</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-32,806,408</font></td>
+<td class="rgt"><font color="red">-27,167,787</font></td>
+<td class="rgt"><font color="red">-29,658,675</font></td>
+<td class="rgt"><font color="red">-49,385,216</font></td>
+<td class="rgt"><font color="red">-52,240,453</font></td>
+</tr>
+<tr>
+<th scope="row">투자활동으로인한현금유입</th>
+<td class="rgt">2,634,675</td>
+<td class="rgt">7,401,073</td>
+<td class="rgt">8,388,178</td>
+<td class="rgt">4,743,377</td>
+<td class="rgt">921,255</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금유출</th>
+<td class="rgt">35,441,083</td>
+<td class="rgt">34,568,860</td>
+<td class="rgt">38,046,853</td>
+<td class="rgt">54,128,593</td>
+<td class="rgt">53,161,708</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-3,057,109</font></td>
+<td class="rgt"><font color="red">-6,573,509</font></td>
+<td class="rgt"><font color="red">-8,669,514</font></td>
+<td class="rgt"><font color="red">-12,560,867</font></td>
+<td class="rgt"><font color="red">-15,090,222</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재무활동으로인한현금유입</th>
+<td class="rgt">3,601,713</td>
+<td class="rgt">3,397,924</td>
+<td class="rgt">2,406,012</td>
+<td class="rgt">3,734,657</td>
+<td class="rgt">11,651</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금유출</th>
+<td class="rgt">6,658,822</td>
+<td class="rgt">9,971,433</td>
+<td class="rgt">11,075,526</td>
+<td class="rgt">16,295,524</td>
+<td class="rgt">15,101,873</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">환율변동으로인한차이조정</th>
+<td class="rgt"><font color="red">-555,886</font></td>
+<td class="rgt"><font color="red">-524,487</font></td>
+<td class="rgt">417,243</td>
+<td class="rgt"><font color="red">-1,782,270</font></td>
+<td class="rgt">94,187</td>
+</tr>
+<tr>
+<th scope="row">현금및현금성자산의증가(감소)</th>
+<td class="rgt">1,111,872</td>
+<td class="rgt">6,320,465</td>
+<td class="rgt">9,057,455</td>
+<td class="rgt">215,958</td>
+<td class="rgt"><font color="red">-298,812</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기초의현금및현금성자산</th>
+<td class="rgt">16,284,780</td>
+<td class="rgt">16,840,766</td>
+<td class="rgt">22,636,744</td>
+<td class="rgt">32,111,442</td>
+<td class="rgt">30,545,130</td>
+</tr>
+<tr>
+<th scope="row">기말의현금및현금성자산</th>
+<td class="rgt">16,840,766</td>
+<td class="rgt">22,636,744</td>
+<td class="rgt">32,111,442</td>
+<td class="rgt">30,545,130</td>
+<td class="rgt">30,340,505</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입과유출없는거래</th>
+<td class="rgt">22,516,107</td>
+<td class="rgt">31,377,101</td>
+<td class="rgt">21,450,590</td>
+<td class="rgt">48,554,810</td>
+<td class="rgt">33,117,353</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_kc3" onclick="per_cha(this.value)" type="radio" value="ph"/>분기
+							<input checked="" name="period_kd3" onclick="per_cha(this.value)" type="radio" value="yh"/>연간
+							<select id="ShinS1" name="ShinS1" onchange="onDisplay5(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[11]
+<div class="section1">
+<h3 class="h3_a1">
+							재무분석
+						</h3>
+<table class="list_b1" summary="평가기관,회사채,평가기준일,기업어음">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">주요재무비율</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr class="line_top">
+<th scope="row">수익성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">총자본연결실체순이익율</span></th>
+<td class="ctr">10.53</td>
+<td class="ctr">8.07</td>
+<td class="ctr">9.01</td>
+<td class="ctr">14.96</td>
+<td class="ctr">13.83</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">지배기업소유지분순이익율</span></th>
+<td class="ctr">15.06</td>
+<td class="ctr">11.16</td>
+<td class="ctr">12.48</td>
+<td class="ctr">21.01</td>
+<td class="ctr">19.63</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액법인세비용차감전순이익율</span></th>
+<td class="ctr">13.52</td>
+<td class="ctr">12.94</td>
+<td class="ctr">15.21</td>
+<td class="ctr">23.46</td>
+<td class="ctr">25.09</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액순이익율</span></th>
+<td class="ctr">11.35</td>
+<td class="ctr">9.5</td>
+<td class="ctr">11.26</td>
+<td class="ctr">17.61</td>
+<td class="ctr">18.19</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액영업이익율</span></th>
+<td class="ctr">12.14</td>
+<td class="ctr">13.16</td>
+<td class="ctr">14.49</td>
+<td class="ctr">22.39</td>
+<td class="ctr">24.16</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">금융비용/매출액비율</span></th>
+<td class="ctr">0.29</td>
+<td class="ctr">0.39</td>
+<td class="ctr">0.29</td>
+<td class="ctr">0.27</td>
+<td class="ctr">0.28</td>
+</tr>
+<tr class="line_top bgc_gry">
+<th scope="row">성장성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">총자산증가율</span></th>
+<td class="ctr">7.64</td>
+<td class="ctr">5.1</td>
+<td class="ctr">8.26</td>
+<td class="ctr">15.1</td>
+<td class="ctr">12.46</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">자기자본증가율</span></th>
+<td class="ctr">12.05</td>
+<td class="ctr">6.53</td>
+<td class="ctr">7.76</td>
+<td class="ctr">11.16</td>
+<td class="ctr">15.51</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출액증가율</span></th>
+<td class="ctr"><font color="red">-9.83</font></td>
+<td class="ctr"><font color="red">-2.69</font></td>
+<td class="ctr">0.6</td>
+<td class="ctr">18.68</td>
+<td class="ctr">1.75</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">영업이익증가율</span></th>
+<td class="ctr"><font color="red">-31.97</font></td>
+<td class="ctr">5.55</td>
+<td class="ctr">10.7</td>
+<td class="ctr">83.46</td>
+<td class="ctr">9.77</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">법인세비용차감전순이익증가율</span></th>
+<td class="ctr"><font color="red">-27.34</font></td>
+<td class="ctr"><font color="red">-6.87</font></td>
+<td class="ctr">18.31</td>
+<td class="ctr">82.97</td>
+<td class="ctr">8.83</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">연결실체순이익증가율</span></th>
+<td class="ctr"><font color="red">-23.23</font></td>
+<td class="ctr"><font color="red">-18.53</font></td>
+<td class="ctr">19.23</td>
+<td class="ctr">85.63</td>
+<td class="ctr">5.12</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">당기순이익지배기업지분증가율</span></th>
+<td class="ctr"><font color="red">-22.6</font></td>
+<td class="ctr"><font color="red">-19.01</font></td>
+<td class="ctr">19.9</td>
+<td class="ctr">84.45</td>
+<td class="ctr">6.16</td>
+</tr>
+<tr class="line_top">
+<th scope="row">안정성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">영업활동현금흐름이자보상비율</span></th>
+<td class="ctr">62.36</td>
+<td class="ctr">51.59</td>
+<td class="ctr">80.61</td>
+<td class="ctr">94.85</td>
+<td class="ctr">99.36</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">영업이익이자보상비율</span></th>
+<td class="ctr">42.21</td>
+<td class="ctr">34.02</td>
+<td class="ctr">49.74</td>
+<td class="ctr">81.85</td>
+<td class="ctr">87.29</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">법인세차감전순이익이자보상비율</span></th>
+<td class="ctr">48.01</td>
+<td class="ctr">34.43</td>
+<td class="ctr">53.25</td>
+<td class="ctr">86.74</td>
+<td class="ctr">91.66</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">자기자본비율</span></th>
+<td class="ctr">72.95</td>
+<td class="ctr">73.94</td>
+<td class="ctr">73.6</td>
+<td class="ctr">71.08</td>
+<td class="ctr">73.01</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동비율</span></th>
+<td class="ctr">221.38</td>
+<td class="ctr">247.14</td>
+<td class="ctr">258.54</td>
+<td class="ctr">218.8</td>
+<td class="ctr">252.89</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">당좌비율</span></th>
+<td class="ctr">188.08</td>
+<td class="ctr">209.89</td>
+<td class="ctr">224.99</td>
+<td class="ctr">181.61</td>
+<td class="ctr">210.93</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">비유동자산비율</span></th>
+<td class="ctr">68.58</td>
+<td class="ctr">65.55</td>
+<td class="ctr">62.57</td>
+<td class="ctr">72.16</td>
+<td class="ctr">66.46</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">비유동자산장기적합율</span></th>
+<td class="ctr">64.61</td>
+<td class="ctr">61.23</td>
+<td class="ctr">58.2</td>
+<td class="ctr">65.98</td>
+<td class="ctr">60.92</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">부채비율</span></th>
+<td class="ctr">37.08</td>
+<td class="ctr">35.25</td>
+<td class="ctr">35.87</td>
+<td class="ctr">40.68</td>
+<td class="ctr">36.97</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동부채비율</span></th>
+<td class="ctr">30.94</td>
+<td class="ctr">28.2</td>
+<td class="ctr">28.35</td>
+<td class="ctr">31.32</td>
+<td class="ctr">27.88</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">차입금의존도</span></th>
+<td class="ctr">4.89</td>
+<td class="ctr">5.32</td>
+<td class="ctr">5.83</td>
+<td class="ctr">6.23</td>
+<td class="ctr">4.32</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">차입금/자기자본</span></th>
+<td class="ctr">6.7</td>
+<td class="ctr">7.19</td>
+<td class="ctr">7.92</td>
+<td class="ctr">8.77</td>
+<td class="ctr">5.92</td>
+</tr>
+<tr class="line_top bgc_gry">
+<th scope="row">활동성 비율
+													(배)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">총자본회전율</span></th>
+<td class="ctr">0.93</td>
+<td class="ctr">0.85</td>
+<td class="ctr">0.8</td>
+<td class="ctr">0.85</td>
+<td class="ctr">0.76</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">재고자산회전율1</span></th>
+<td class="ctr">11.31</td>
+<td class="ctr">11.11</td>
+<td class="ctr">10.86</td>
+<td class="ctr">11.06</td>
+<td class="ctr">9.03</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출채권회전율</span></th>
+<td class="ctr">8.3</td>
+<td class="ctr">8.05</td>
+<td class="ctr">8.16</td>
+<td class="ctr">9.22</td>
+<td class="ctr">7.92</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매입채무회전율</span></th>
+<td class="ctr">25.22</td>
+<td class="ctr">28.46</td>
+<td class="ctr">31.86</td>
+<td class="ctr">30.78</td>
+<td class="ctr">27.76</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출채권회수기간(일)</span></th>
+<td class="ctr">43.37</td>
+<td class="ctr">44.72</td>
+<td class="ctr">44.12</td>
+<td class="ctr">39.05</td>
+<td class="ctr">45.45</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매입채무지급기간(일)</span></th>
+<td class="ctr">14.27</td>
+<td class="ctr">12.65</td>
+<td class="ctr">11.3</td>
+<td class="ctr">11.7</td>
+<td class="ctr">12.97</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">운전자금회전주기(일)</span></th>
+<td class="ctr">60.92</td>
+<td class="ctr">64.49</td>
+<td class="ctr">65.93</td>
+<td class="ctr">59.91</td>
+<td class="ctr">72.34</td>
+</tr>
+<tr class="line_top">
+<th scope="row">차입금 구조
+													(억원)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">총차입금</span></th>
+<td class="ctr">112,655</td>
+<td class="ctr">128,740</td>
+<td class="ctr">152,824</td>
+<td class="ctr">188,140</td>
+<td class="ctr">146,671</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">단기차입금</span></th>
+<td class="ctr">80,293</td>
+<td class="ctr">111,554</td>
+<td class="ctr">127,468</td>
+<td class="ctr">157,676</td>
+<td class="ctr">135,867</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동성장기부채</span></th>
+<td class="ctr">17,787</td>
+<td class="ctr">2,215</td>
+<td class="ctr">12,328</td>
+<td class="ctr">2,786</td>
+<td class="ctr">334</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">장기차입금</span></th>
+<td class="ctr">14,576</td>
+<td class="ctr">14,970</td>
+<td class="ctr">13,028</td>
+<td class="ctr">27,678</td>
+<td class="ctr">10,471</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<select id="FinS1" name="FinS1" onchange="onDisplay(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[12]
+<div class="section1" name="pt1" style="display:none">
+<h3 class="h3_b1">재무제표</h3>
+<h4 class="h4_b1 fl">재무상태표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="재무상태표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">재무상태표</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">비유동자산(계)</th>
+<td class="rgt">154,769,626</td>
+<td class="rgt">157,531,160</td>
+<td class="rgt">161,711,541</td>
+<td class="rgt">160,913,737</td>
+<td class="rgt">164,659,820</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유형자산(계)</th>
+<td class="rgt">111,665,648</td>
+<td class="rgt">114,412,258</td>
+<td class="rgt">116,576,140</td>
+<td class="rgt">115,003,148</td>
+<td class="rgt">115,416,724</td>
+</tr>
+<tr>
+<th scope="row">무형자산(계)</th>
+<td class="rgt">14,760,483</td>
+<td class="rgt">14,805,407</td>
+<td class="rgt">14,999,464</td>
+<td class="rgt">14,800,096</td>
+<td class="rgt">14,891,598</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">장기투자자산</th>
+<td class="rgt">14,664,789</td>
+<td class="rgt">14,693,144</td>
+<td class="rgt">15,224,534</td>
+<td class="rgt">15,869,151</td>
+<td class="rgt">15,634,618</td>
+</tr>
+<tr>
+<th scope="row">이연법인세자산</th>
+<td class="rgt">5,061,687</td>
+<td class="rgt">5,012,377</td>
+<td class="rgt">5,006,713</td>
+<td class="rgt">4,692,581</td>
+<td class="rgt">5,468,002</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타금융자산</th>
+<td class="rgt">839,373</td>
+<td class="rgt">628,122</td>
+<td class="rgt">458,843</td>
+<td class="rgt">289,962</td>
+<td class="rgt">569,975</td>
+</tr>
+<tr>
+<th scope="row">기타비금융자산</th>
+<td class="rgt">7,777,646</td>
+<td class="rgt">7,979,852</td>
+<td class="rgt">9,445,847</td>
+<td class="rgt">10,258,799</td>
+<td class="rgt">12,678,903</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동자산(계)</th>
+<td class="rgt">146,982,464</td>
+<td class="rgt">154,941,953</td>
+<td class="rgt">156,976,839</td>
+<td class="rgt">176,282,049</td>
+<td class="rgt">174,697,424</td>
+</tr>
+<tr>
+<th scope="row">재고자산(계)</th>
+<td class="rgt">24,983,355</td>
+<td class="rgt">26,470,871</td>
+<td class="rgt">27,358,767</td>
+<td class="rgt">28,242,807</td>
+<td class="rgt">28,984,704</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출채권및기타채권</th>
+<td class="rgt">31,804,956</td>
+<td class="rgt">38,592,500</td>
+<td class="rgt">38,146,490</td>
+<td class="rgt">45,095,492</td>
+<td class="rgt">36,948,466</td>
+</tr>
+<tr>
+<th scope="row">단기투자자산</th>
+<td class="rgt">52,639,071</td>
+<td class="rgt">49,760,860</td>
+<td class="rgt">52,613,771</td>
+<td class="rgt">62,127,532</td>
+<td class="rgt">70,599,438</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타금융자산</th>
+<td class="rgt">31,915</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">18,343</td>
+</tr>
+<tr>
+<th scope="row">기타비금융자산</th>
+<td class="rgt">6,978,037</td>
+<td class="rgt">7,813,970</td>
+<td class="rgt">7,495,589</td>
+<td class="rgt">7,728,125</td>
+<td class="rgt">7,805,968</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금및현금성자산</th>
+<td class="rgt">30,545,130</td>
+<td class="rgt">32,303,752</td>
+<td class="rgt">31,362,222</td>
+<td class="rgt">33,088,093</td>
+<td class="rgt">30,340,505</td>
+</tr>
+<tr>
+<th scope="row">자산총계</th>
+<td class="rgt">301,752,090</td>
+<td class="rgt">312,473,113</td>
+<td class="rgt">318,688,380</td>
+<td class="rgt">337,195,786</td>
+<td class="rgt">339,357,244</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">지배기업소유주지분</th>
+<td class="rgt">207,213,416</td>
+<td class="rgt">215,884,505</td>
+<td class="rgt">225,671,417</td>
+<td class="rgt">234,476,380</td>
+<td class="rgt">240,068,993</td>
+</tr>
+<tr>
+<th scope="row">납입자본</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본금</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr>
+<th scope="row">보통주자본금</th>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">이익잉여금</th>
+<td class="rgt">215,811,200</td>
+<td class="rgt">222,485,398</td>
+<td class="rgt">231,065,173</td>
+<td class="rgt">241,628,322</td>
+<td class="rgt">242,698,956</td>
+</tr>
+<tr>
+<th scope="row">기타자본구성요소</th>
+<td class="rgt"><font color="red">-9,495,298</font></td>
+<td class="rgt"><font color="red">-7,498,407</font></td>
+<td class="rgt"><font color="red">-6,291,270</font></td>
+<td class="rgt"><font color="red">-8,049,456</font></td>
+<td class="rgt"><font color="red">-3,527,477</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">비지배지분(소수주주지분)</th>
+<td class="rgt">7,278,012</td>
+<td class="rgt">7,375,375</td>
+<td class="rgt">7,453,428</td>
+<td class="rgt">7,626,780</td>
+<td class="rgt">7,684,184</td>
+</tr>
+<tr>
+<th scope="row">자본총계</th>
+<td class="rgt">214,491,428</td>
+<td class="rgt">223,259,880</td>
+<td class="rgt">233,124,845</td>
+<td class="rgt">242,103,160</td>
+<td class="rgt">247,753,177</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">비유동부채(계)</th>
+<td class="rgt">20,085,548</td>
+<td class="rgt">20,914,647</td>
+<td class="rgt">19,961,212</td>
+<td class="rgt">20,386,754</td>
+<td class="rgt">22,522,557</td>
+</tr>
+<tr>
+<th scope="row">매입채무및기타채무</th>
+<td class="rgt">2,043,729</td>
+<td class="rgt">1,935,019</td>
+<td class="rgt">1,957,733</td>
+<td class="rgt">1,688,167</td>
+<td class="rgt">3,194,043</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">비유동차입부채</th>
+<td class="rgt">2,767,807</td>
+<td class="rgt">2,872,250</td>
+<td class="rgt">1,071,389</td>
+<td class="rgt">1,059,536</td>
+<td class="rgt">1,047,057</td>
+</tr>
+<tr>
+<th scope="row">이연법인세부채</th>
+<td class="rgt">11,710,781</td>
+<td class="rgt">12,349,990</td>
+<td class="rgt">13,186,358</td>
+<td class="rgt">13,750,490</td>
+<td class="rgt">15,162,523</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타금융부채</th>
+<td class="rgt">15,840</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">4,095</td>
+</tr>
+<tr>
+<th scope="row">기타비금융부채</th>
+<td class="rgt">2,693,145</td>
+<td class="rgt">2,818,480</td>
+<td class="rgt">2,685,963</td>
+<td class="rgt">2,241,323</td>
+<td class="rgt">1,947,156</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">퇴직급여채무</th>
+<td class="rgt">389,922</td>
+<td class="rgt">425,561</td>
+<td class="rgt">478,650</td>
+<td class="rgt">524,088</td>
+<td class="rgt">504,064</td>
+</tr>
+<tr>
+<th scope="row">장기충당부채(계)</th>
+<td class="rgt">464,324</td>
+<td class="rgt">513,347</td>
+<td class="rgt">581,119</td>
+<td class="rgt">1,123,150</td>
+<td class="rgt">663,619</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동부채(계)</th>
+<td class="rgt">67,175,114</td>
+<td class="rgt">68,298,586</td>
+<td class="rgt">65,602,323</td>
+<td class="rgt">74,705,872</td>
+<td class="rgt">69,081,510</td>
+</tr>
+<tr>
+<th scope="row">매입채무및기타채무</th>
+<td class="rgt">37,773,395</td>
+<td class="rgt">40,447,590</td>
+<td class="rgt">35,747,614</td>
+<td class="rgt">36,770,221</td>
+<td class="rgt">40,482,393</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동차입부채</th>
+<td class="rgt">16,046,238</td>
+<td class="rgt">9,988,966</td>
+<td class="rgt">15,035,566</td>
+<td class="rgt">20,625,870</td>
+<td class="rgt">13,620,046</td>
+</tr>
+<tr>
+<th scope="row">당기법인세부채</th>
+<td class="rgt">7,408,348</td>
+<td class="rgt">10,542,578</td>
+<td class="rgt">7,063,097</td>
+<td class="rgt">8,822,613</td>
+<td class="rgt">8,720,050</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타금융부채</th>
+<td class="rgt">25,806</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">6,344</td>
+</tr>
+<tr>
+<th scope="row">기타비금융부채</th>
+<td class="rgt">1,626,507</td>
+<td class="rgt">2,064,654</td>
+<td class="rgt">1,796,400</td>
+<td class="rgt">2,087,125</td>
+<td class="rgt">1,868,639</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">단기충당부채</th>
+<td class="rgt">4,294,820</td>
+<td class="rgt">5,254,798</td>
+<td class="rgt">5,959,646</td>
+<td class="rgt">6,400,043</td>
+<td class="rgt">4,384,038</td>
+</tr>
+<tr>
+<th scope="row">부채총계</th>
+<td class="rgt">87,260,662</td>
+<td class="rgt">89,213,233</td>
+<td class="rgt">85,563,535</td>
+<td class="rgt">95,092,626</td>
+<td class="rgt">91,604,067</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">부채와자본총계</th>
+<td class="rgt">301,752,090</td>
+<td class="rgt">312,473,113</td>
+<td class="rgt">318,688,380</td>
+<td class="rgt">337,195,786</td>
+<td class="rgt">339,357,244</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_ka4" onclick="per_cha(this.value)" type="radio" value="p"/>분기
+							<input name="period_kb4" onclick="per_cha(this.value)" type="radio" value="y"/>연간
+							<select id="PinS1" name="PinS1" onchange="onDisplay4(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[13]
+<div class="section1" name="yt1">
+<h3 class="h3_b1">재무제표</h3>
+<h4 class="h4_b1 fl">재무상태표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="재무상태표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">재무상태표</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">비유동자산(계)</th>
+<td class="rgt">115,276,932</td>
+<td class="rgt">117,364,796</td>
+<td class="rgt">120,744,620</td>
+<td class="rgt">154,769,626</td>
+<td class="rgt">164,659,820</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유형자산(계)</th>
+<td class="rgt">80,872,950</td>
+<td class="rgt">86,477,110</td>
+<td class="rgt">91,473,041</td>
+<td class="rgt">111,665,648</td>
+<td class="rgt">115,416,724</td>
+</tr>
+<tr>
+<th scope="row">무형자산(계)</th>
+<td class="rgt">4,785,473</td>
+<td class="rgt">5,396,311</td>
+<td class="rgt">5,344,020</td>
+<td class="rgt">14,760,483</td>
+<td class="rgt">14,891,598</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">장기투자자산</th>
+<td class="rgt">17,899,970</td>
+<td class="rgt">13,608,828</td>
+<td class="rgt">12,642,160</td>
+<td class="rgt">14,664,789</td>
+<td class="rgt">15,634,618</td>
+</tr>
+<tr>
+<th scope="row">이연법인세자산</th>
+<td class="rgt">4,526,595</td>
+<td class="rgt">5,589,108</td>
+<td class="rgt">5,321,450</td>
+<td class="rgt">5,061,687</td>
+<td class="rgt">5,468,002</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타금융자산</th>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">557,091</td>
+<td class="rgt">839,373</td>
+<td class="rgt">569,975</td>
+</tr>
+<tr>
+<th scope="row">기타비금융자산</th>
+<td class="rgt">7,191,944</td>
+<td class="rgt">6,293,439</td>
+<td class="rgt">5,406,858</td>
+<td class="rgt">7,777,646</td>
+<td class="rgt">12,678,903</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동자산(계)</th>
+<td class="rgt">115,146,026</td>
+<td class="rgt">124,814,725</td>
+<td class="rgt">141,429,704</td>
+<td class="rgt">146,982,464</td>
+<td class="rgt">174,697,424</td>
+</tr>
+<tr>
+<th scope="row">재고자산(계)</th>
+<td class="rgt">17,317,504</td>
+<td class="rgt">18,811,794</td>
+<td class="rgt">18,353,503</td>
+<td class="rgt">24,983,355</td>
+<td class="rgt">28,984,704</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출채권및기타채권</th>
+<td class="rgt">28,234,485</td>
+<td class="rgt">28,520,689</td>
+<td class="rgt">27,800,408</td>
+<td class="rgt">31,804,956</td>
+<td class="rgt">36,948,466</td>
+</tr>
+<tr>
+<th scope="row">단기투자자산</th>
+<td class="rgt">44,976,574</td>
+<td class="rgt">48,856,330</td>
+<td class="rgt">56,070,871</td>
+<td class="rgt">52,639,071</td>
+<td class="rgt">70,599,438</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타금융자산</th>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">31,915</td>
+<td class="rgt">18,343</td>
+</tr>
+<tr>
+<th scope="row">기타비금융자산</th>
+<td class="rgt">7,131,206</td>
+<td class="rgt">5,912,095</td>
+<td class="rgt">6,257,674</td>
+<td class="rgt">6,978,037</td>
+<td class="rgt">7,805,968</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금및현금성자산</th>
+<td class="rgt">16,840,766</td>
+<td class="rgt">22,636,744</td>
+<td class="rgt">32,111,442</td>
+<td class="rgt">30,545,130</td>
+<td class="rgt">30,340,505</td>
+</tr>
+<tr>
+<th scope="row">매각예정자산및처분자산집단</th>
+<td class="rgt">645,491</td>
+<td class="rgt">77,073</td>
+<td class="rgt">835,806</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자산총계</th>
+<td class="rgt">230,422,958</td>
+<td class="rgt">242,179,521</td>
+<td class="rgt">262,174,324</td>
+<td class="rgt">301,752,090</td>
+<td class="rgt">339,357,244</td>
+</tr>
+<tr>
+<th scope="row">지배기업소유주지분</th>
+<td class="rgt">162,181,725</td>
+<td class="rgt">172,876,767</td>
+<td class="rgt">186,424,328</td>
+<td class="rgt">207,213,416</td>
+<td class="rgt">240,068,993</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">납입자본</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr>
+<th scope="row">자본금</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">보통주자본금</th>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+</tr>
+<tr>
+<th scope="row">이익잉여금</th>
+<td class="rgt">169,529,604</td>
+<td class="rgt">185,132,014</td>
+<td class="rgt">193,086,317</td>
+<td class="rgt">215,811,200</td>
+<td class="rgt">242,698,956</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타자본구성요소</th>
+<td class="rgt"><font color="red">-8,325,494</font></td>
+<td class="rgt"><font color="red">-13,176,558</font></td>
+<td class="rgt"><font color="red">-7,530,693</font></td>
+<td class="rgt"><font color="red">-9,495,298</font></td>
+<td class="rgt"><font color="red">-3,527,477</font></td>
+</tr>
+<tr>
+<th scope="row">매각예정자산관련자본액</th>
+<td class="rgt">80,101</td>
+<td class="rgt">23,797</td>
+<td class="rgt"><font color="red">-28,810</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">비지배지분(소수주주지분)</th>
+<td class="rgt">5,906,463</td>
+<td class="rgt">6,183,038</td>
+<td class="rgt">6,538,705</td>
+<td class="rgt">7,278,012</td>
+<td class="rgt">7,684,184</td>
+</tr>
+<tr>
+<th scope="row">자본총계</th>
+<td class="rgt">168,088,188</td>
+<td class="rgt">179,059,805</td>
+<td class="rgt">192,963,033</td>
+<td class="rgt">214,491,428</td>
+<td class="rgt">247,753,177</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">비유동부채(계)</th>
+<td class="rgt">10,320,857</td>
+<td class="rgt">12,616,807</td>
+<td class="rgt">14,507,196</td>
+<td class="rgt">20,085,548</td>
+<td class="rgt">22,522,557</td>
+</tr>
+<tr>
+<th scope="row">매입채무및기타채무</th>
+<td class="rgt">2,562,271</td>
+<td class="rgt">3,041,687</td>
+<td class="rgt">3,317,054</td>
+<td class="rgt">2,043,729</td>
+<td class="rgt">3,194,043</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">비유동차입부채</th>
+<td class="rgt">1,457,553</td>
+<td class="rgt">1,496,990</td>
+<td class="rgt">1,302,780</td>
+<td class="rgt">2,767,807</td>
+<td class="rgt">1,047,057</td>
+</tr>
+<tr>
+<th scope="row">이연법인세부채</th>
+<td class="rgt">4,097,811</td>
+<td class="rgt">5,154,792</td>
+<td class="rgt">7,293,514</td>
+<td class="rgt">11,710,781</td>
+<td class="rgt">15,162,523</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타금융부채</th>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">15,840</td>
+<td class="rgt">4,095</td>
+</tr>
+<tr>
+<th scope="row">기타비금융부채</th>
+<td class="rgt">1,502,590</td>
+<td class="rgt">2,042,140</td>
+<td class="rgt">2,062,066</td>
+<td class="rgt">2,693,145</td>
+<td class="rgt">1,947,156</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">퇴직급여채무</th>
+<td class="rgt">201,342</td>
+<td class="rgt">358,820</td>
+<td class="rgt">173,656</td>
+<td class="rgt">389,922</td>
+<td class="rgt">504,064</td>
+</tr>
+<tr>
+<th scope="row">장기충당부채(계)</th>
+<td class="rgt">499,290</td>
+<td class="rgt">522,378</td>
+<td class="rgt">358,126</td>
+<td class="rgt">464,324</td>
+<td class="rgt">663,619</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동부채(계)</th>
+<td class="rgt">52,013,913</td>
+<td class="rgt">50,502,909</td>
+<td class="rgt">54,704,095</td>
+<td class="rgt">67,175,114</td>
+<td class="rgt">69,081,510</td>
+</tr>
+<tr>
+<th scope="row">매입채무및기타채무</th>
+<td class="rgt">32,271,523</td>
+<td class="rgt">27,673,141</td>
+<td class="rgt">31,223,277</td>
+<td class="rgt">37,773,395</td>
+<td class="rgt">40,482,393</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동차입부채</th>
+<td class="rgt">9,807,966</td>
+<td class="rgt">11,376,973</td>
+<td class="rgt">13,979,606</td>
+<td class="rgt">16,046,238</td>
+<td class="rgt">13,620,046</td>
+</tr>
+<tr>
+<th scope="row">당기법인세부채</th>
+<td class="rgt">2,161,109</td>
+<td class="rgt">3,401,625</td>
+<td class="rgt">2,837,353</td>
+<td class="rgt">7,408,348</td>
+<td class="rgt">8,720,050</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타금융부채</th>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">25,806</td>
+<td class="rgt">6,344</td>
+</tr>
+<tr>
+<th scope="row">기타비금융부채</th>
+<td class="rgt">1,753,489</td>
+<td class="rgt">1,630,567</td>
+<td class="rgt">1,710,054</td>
+<td class="rgt">1,626,507</td>
+<td class="rgt">1,868,639</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">단기충당부채</th>
+<td class="rgt">5,991,510</td>
+<td class="rgt">6,420,603</td>
+<td class="rgt">4,597,417</td>
+<td class="rgt">4,294,820</td>
+<td class="rgt">4,384,038</td>
+</tr>
+<tr>
+<th scope="row">매각예정부채</th>
+<td class="rgt">28,316</td>
+<td class="rgt">-</td>
+<td class="rgt">356,388</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">부채총계</th>
+<td class="rgt">62,334,770</td>
+<td class="rgt">63,119,716</td>
+<td class="rgt">69,211,291</td>
+<td class="rgt">87,260,662</td>
+<td class="rgt">91,604,067</td>
+</tr>
+<tr>
+<th scope="row">부채와자본총계</th>
+<td class="rgt">230,422,958</td>
+<td class="rgt">242,179,521</td>
+<td class="rgt">262,174,324</td>
+<td class="rgt">301,752,090</td>
+<td class="rgt">339,357,244</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_ka3" onclick="per_cha(this.value)" type="radio" value="p"/>분기
+							<input checked="" name="period_kb3" onclick="per_cha(this.value)" type="radio" value="y"/>연간
+							<select id="SinS1" name="SinS1" onchange="onDisplay2(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[14]
+<div class="section1 pt40" name="yht2">
+<h4 class="h4_b1 fl">현금흐름표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="현금흐름표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">현금흐름표</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">영업활동으로인한현금흐름</th>
+<td class="rgt">18,653,817</td>
+<td class="rgt">19,287,521</td>
+<td class="rgt">23,984,804</td>
+<td class="rgt">38,906,190</td>
+<td class="rgt">44,341,217</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">14,591,781</td>
+<td class="rgt">12,238,469</td>
+<td class="rgt">11,579,749</td>
+<td class="rgt">28,800,837</td>
+<td class="rgt">32,815,127</td>
+</tr>
+<tr>
+<th scope="row">현금유출없는비용등가산</th>
+<td class="rgt">10,717,353</td>
+<td class="rgt">12,232,897</td>
+<td class="rgt">15,748,237</td>
+<td class="rgt">17,391,599</td>
+<td class="rgt">18,195,411</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입없는수익등차감</th>
+<td class="rgt">2,023,413</td>
+<td class="rgt"><font color="red">-385,117</font></td>
+<td class="rgt">1,754,804</td>
+<td class="rgt">1,822,904</td>
+<td class="rgt">355,356</td>
+</tr>
+<tr>
+<th scope="row">영업활동관련자산부채변동</th>
+<td class="rgt"><font color="red">-4,631,904</font></td>
+<td class="rgt"><font color="red">-5,568,962</font></td>
+<td class="rgt"><font color="red">-1,588,378</font></td>
+<td class="rgt"><font color="red">-5,463,342</font></td>
+<td class="rgt"><font color="red">-6,313,965</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-15,951,220</font></td>
+<td class="rgt"><font color="red">-14,003,962</font></td>
+<td class="rgt"><font color="red">-14,240,450</font></td>
+<td class="rgt"><font color="red">-28,118,806</font></td>
+<td class="rgt"><font color="red">-31,678,548</font></td>
+</tr>
+<tr>
+<th scope="row">투자활동으로인한현금유입</th>
+<td class="rgt">3,385,968</td>
+<td class="rgt">4,911,410</td>
+<td class="rgt">7,200,130</td>
+<td class="rgt">6,522,127</td>
+<td class="rgt">381,876</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금유출</th>
+<td class="rgt">19,337,188</td>
+<td class="rgt">18,915,372</td>
+<td class="rgt">21,440,580</td>
+<td class="rgt">34,640,933</td>
+<td class="rgt">32,060,424</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-3,089,586</font></td>
+<td class="rgt"><font color="red">-3,854,887</font></td>
+<td class="rgt"><font color="red">-9,037,006</font></td>
+<td class="rgt"><font color="red">-11,801,987</font></td>
+<td class="rgt"><font color="red">-12,818,480</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재무활동으로인한현금유입</th>
+<td class="rgt">198,158</td>
+<td class="rgt">4,239,129</td>
+<td class="rgt">1,737,871</td>
+<td class="rgt">3,300,611</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금유출</th>
+<td class="rgt">3,287,744</td>
+<td class="rgt">8,094,016</td>
+<td class="rgt">10,774,877</td>
+<td class="rgt">15,102,598</td>
+<td class="rgt">12,818,480</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금의증가(감소)</th>
+<td class="rgt"><font color="red">-386,989</font></td>
+<td class="rgt">1,428,672</td>
+<td class="rgt">707,348</td>
+<td class="rgt"><font color="red">-1,014,603</font></td>
+<td class="rgt"><font color="red">-155,811</font></td>
+</tr>
+<tr>
+<th scope="row">환율변동으로인한차이조정</th>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-9,030</font></td>
+<td class="rgt">8,063</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기초의현금</th>
+<td class="rgt">2,030,307</td>
+<td class="rgt">1,643,318</td>
+<td class="rgt">3,062,960</td>
+<td class="rgt">3,778,371</td>
+<td class="rgt">2,763,768</td>
+</tr>
+<tr>
+<th scope="row">기말의현금</th>
+<td class="rgt">1,643,318</td>
+<td class="rgt">3,062,960</td>
+<td class="rgt">3,778,371</td>
+<td class="rgt">2,763,768</td>
+<td class="rgt">2,607,957</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입과유출없는거래</th>
+<td class="rgt">9,411,535</td>
+<td class="rgt">16,061,742</td>
+<td class="rgt">9,357,040</td>
+<td class="rgt">27,917,001</td>
+<td class="rgt">29,382,443</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_kc5" onclick="per_cha(this.value)" type="radio" value="ph"/>분기
+							<input checked="" name="period_kd5" onclick="per_cha(this.value)" type="radio" value="yh"/>연간
+							<select id="ShinS2" name="ShinS2" onchange="onDisplay5(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[15]
+<div class="section1" name="pt2" style="display:none">
+<h3 class="h3_b1">재무제표</h3>
+<h4 class="h4_b1 fl">재무상태표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="재무상태표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">재무상태표</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">유동자산(계)</th>
+<td class="rgt">70,155,189</td>
+<td class="rgt">72,370,085</td>
+<td class="rgt">68,070,224</td>
+<td class="rgt">81,904,347</td>
+<td class="rgt">80,039,455</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당좌자산(계)</th>
+<td class="rgt">62,318,045</td>
+<td class="rgt">63,454,225</td>
+<td class="rgt">58,134,315</td>
+<td class="rgt">71,547,007</td>
+<td class="rgt">67,598,504</td>
+</tr>
+<tr>
+<th scope="row">현금및현금등가물</th>
+<td class="rgt">2,763,768</td>
+<td class="rgt">7,769,590</td>
+<td class="rgt">3,981,948</td>
+<td class="rgt">3,920,032</td>
+<td class="rgt">2,607,957</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재고자산(계)</th>
+<td class="rgt">7,837,144</td>
+<td class="rgt">8,915,860</td>
+<td class="rgt">9,935,909</td>
+<td class="rgt">10,357,340</td>
+<td class="rgt">12,440,951</td>
+</tr>
+<tr>
+<th scope="row">비유동자산(계)</th>
+<td class="rgt">128,086,171</td>
+<td class="rgt">132,836,079</td>
+<td class="rgt">135,899,888</td>
+<td class="rgt">135,895,097</td>
+<td class="rgt">138,981,902</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자자산(계)</th>
+<td class="rgt">56,645,112</td>
+<td class="rgt">56,720,753</td>
+<td class="rgt">56,981,161</td>
+<td class="rgt">57,044,296</td>
+<td class="rgt">57,065,723</td>
+</tr>
+<tr>
+<th scope="row">유형자산(계)</th>
+<td class="rgt">62,816,961</td>
+<td class="rgt">66,737,192</td>
+<td class="rgt">69,235,302</td>
+<td class="rgt">69,525,464</td>
+<td class="rgt">70,602,493</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">건설중인자산</th>
+<td class="rgt">9,139,495</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">6,380,213</td>
+</tr>
+<tr>
+<th scope="row">무형자산(계)</th>
+<td class="rgt">2,827,035</td>
+<td class="rgt">2,823,356</td>
+<td class="rgt">2,857,695</td>
+<td class="rgt">2,814,997</td>
+<td class="rgt">2,901,476</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타비유동자산(계)</th>
+<td class="rgt">5,797,063</td>
+<td class="rgt">6,554,778</td>
+<td class="rgt">6,825,730</td>
+<td class="rgt">6,510,340</td>
+<td class="rgt">8,412,210</td>
+</tr>
+<tr>
+<th scope="row">자산총계</th>
+<td class="rgt">198,241,360</td>
+<td class="rgt">205,206,164</td>
+<td class="rgt">203,970,112</td>
+<td class="rgt">217,799,444</td>
+<td class="rgt">219,021,357</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동부채(계)</th>
+<td class="rgt">44,495,084</td>
+<td class="rgt">47,168,741</td>
+<td class="rgt">40,203,756</td>
+<td class="rgt">46,368,714</td>
+<td class="rgt">43,145,053</td>
+</tr>
+<tr>
+<th scope="row">단기차입금</th>
+<td class="rgt">12,229,701</td>
+<td class="rgt">7,657,877</td>
+<td class="rgt">10,695,304</td>
+<td class="rgt">14,827,178</td>
+<td class="rgt">10,353,873</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동성장기부채</th>
+<td class="rgt">5,201</td>
+<td class="rgt">5,183</td>
+<td class="rgt">5,459</td>
+<td class="rgt">5,422</td>
+<td class="rgt">5,440</td>
+</tr>
+<tr>
+<th scope="row">유동성사채</th>
+<td class="rgt">5,201</td>
+<td class="rgt">5,183</td>
+<td class="rgt">5,459</td>
+<td class="rgt">5,422</td>
+<td class="rgt">5,440</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">비유동부채(계)</th>
+<td class="rgt">2,176,501</td>
+<td class="rgt">1,842,051</td>
+<td class="rgt">1,926,719</td>
+<td class="rgt">1,771,916</td>
+<td class="rgt">2,888,179</td>
+</tr>
+<tr>
+<th scope="row">장기사채(계)</th>
+<td class="rgt">46,808</td>
+<td class="rgt">46,651</td>
+<td class="rgt">49,129</td>
+<td class="rgt">48,798</td>
+<td class="rgt">43,516</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">장기부채성충당부채(계)</th>
+<td class="rgt">379,201</td>
+<td class="rgt">429,605</td>
+<td class="rgt">480,008</td>
+<td class="rgt">530,412</td>
+<td class="rgt">372,217</td>
+</tr>
+<tr>
+<th scope="row">부채총계</th>
+<td class="rgt">46,671,585</td>
+<td class="rgt">49,010,792</td>
+<td class="rgt">42,130,475</td>
+<td class="rgt">48,140,630</td>
+<td class="rgt">46,033,232</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본금</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr>
+<th scope="row">보통주자본금</th>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본잉여금</th>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+</tr>
+<tr>
+<th scope="row">자본조정</th>
+<td class="rgt"><font color="red">-4,467,779</font></td>
+<td class="rgt"><font color="red">-3,114,755</font></td>
+<td class="rgt"><font color="red">-3,114,755</font></td>
+<td class="rgt"><font color="red">-3,114,756</font></td>
+<td class="rgt">1,760,408</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타포괄손익누계액</th>
+<td class="rgt"><font color="red">-192,577</font></td>
+<td class="rgt"><font color="red">-275,818</font></td>
+<td class="rgt"><font color="red">-307,766</font></td>
+<td class="rgt"><font color="red">-295,399</font></td>
+<td class="rgt"><font color="red">-629,222</font></td>
+</tr>
+<tr>
+<th scope="row">이익잉여금</th>
+<td class="rgt">150,928,724</td>
+<td class="rgt">154,284,538</td>
+<td class="rgt">159,960,751</td>
+<td class="rgt">167,767,562</td>
+<td class="rgt">166,555,532</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본총계</th>
+<td class="rgt">151,569,775</td>
+<td class="rgt">156,195,372</td>
+<td class="rgt">161,839,637</td>
+<td class="rgt">169,658,814</td>
+<td class="rgt">172,988,125</td>
+</tr>
+<tr>
+<th scope="row">부채와자본총계</th>
+<td class="rgt">198,241,360</td>
+<td class="rgt">205,206,164</td>
+<td class="rgt">203,970,112</td>
+<td class="rgt">217,799,444</td>
+<td class="rgt">219,021,357</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_ka6" onclick="per_cha(this.value)" type="radio" value="p"/>분기
+							<input name="period_kb6" onclick="per_cha(this.value)" type="radio" value="y"/>연간
+							<select id="PinS2" name="PinS2" onchange="onDisplay4(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[16]
+<div class="section1" name="yt3">
+<h3 class="h3_b1">재무제표</h3>
+<h4 class="h4_b1 fl">재무상태표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="재무상태표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">재무상태표</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">유동자산(계)</th>
+<td class="rgt">115,146,026</td>
+<td class="rgt">124,814,725</td>
+<td class="rgt">141,429,704</td>
+<td class="rgt">146,982,464</td>
+<td class="rgt">174,697,424</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당좌자산(계)</th>
+<td class="rgt">97,828,522</td>
+<td class="rgt">106,002,931</td>
+<td class="rgt">123,076,201</td>
+<td class="rgt">121,999,109</td>
+<td class="rgt">145,712,720</td>
+</tr>
+<tr>
+<th scope="row">현금및현금등가물</th>
+<td class="rgt">16,840,766</td>
+<td class="rgt">22,636,744</td>
+<td class="rgt">32,111,442</td>
+<td class="rgt">30,545,130</td>
+<td class="rgt">30,340,505</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">단기투자증권</th>
+<td class="rgt">3,286,798</td>
+<td class="rgt">4,627,530</td>
+<td class="rgt">3,638,460</td>
+<td class="rgt">3,191,375</td>
+<td class="rgt">4,705,641</td>
+</tr>
+<tr>
+<th scope="row">재고자산(계)</th>
+<td class="rgt">17,317,504</td>
+<td class="rgt">18,811,794</td>
+<td class="rgt">18,353,503</td>
+<td class="rgt">24,983,355</td>
+<td class="rgt">28,984,704</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">비유동자산(계)</th>
+<td class="rgt">115,276,932</td>
+<td class="rgt">117,364,796</td>
+<td class="rgt">120,744,620</td>
+<td class="rgt">154,769,626</td>
+<td class="rgt">164,659,820</td>
+</tr>
+<tr>
+<th scope="row">투자자산(계)</th>
+<td class="rgt">17,899,970</td>
+<td class="rgt">13,608,828</td>
+<td class="rgt">12,642,160</td>
+<td class="rgt">14,678,270</td>
+<td class="rgt">15,642,237</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유형자산(계)</th>
+<td class="rgt">80,872,950</td>
+<td class="rgt">86,477,110</td>
+<td class="rgt">91,473,041</td>
+<td class="rgt">111,665,648</td>
+<td class="rgt">115,416,724</td>
+</tr>
+<tr>
+<th scope="row">건설중인자산</th>
+<td class="rgt">15,832,307</td>
+<td class="rgt">10,970,052</td>
+<td class="rgt">18,773,986</td>
+<td class="rgt">13,910,749</td>
+<td class="rgt">9,705,056</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">무형자산(계)</th>
+<td class="rgt">4,785,473</td>
+<td class="rgt">5,396,311</td>
+<td class="rgt">5,344,020</td>
+<td class="rgt">14,760,483</td>
+<td class="rgt">14,891,598</td>
+</tr>
+<tr>
+<th scope="row">기타비유동자산(계)</th>
+<td class="rgt">11,718,539</td>
+<td class="rgt">11,882,547</td>
+<td class="rgt">11,285,399</td>
+<td class="rgt">13,665,225</td>
+<td class="rgt">18,709,261</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자산총계</th>
+<td class="rgt">230,422,958</td>
+<td class="rgt">242,179,521</td>
+<td class="rgt">262,174,324</td>
+<td class="rgt">301,752,090</td>
+<td class="rgt">339,357,244</td>
+</tr>
+<tr>
+<th scope="row">유동부채(계)</th>
+<td class="rgt">52,013,913</td>
+<td class="rgt">50,502,909</td>
+<td class="rgt">54,704,095</td>
+<td class="rgt">67,175,114</td>
+<td class="rgt">69,081,510</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">단기차입금</th>
+<td class="rgt">8,029,299</td>
+<td class="rgt">11,155,425</td>
+<td class="rgt">12,746,789</td>
+<td class="rgt">15,767,619</td>
+<td class="rgt">13,586,660</td>
+</tr>
+<tr>
+<th scope="row">유동성장기부채</th>
+<td class="rgt">1,778,667</td>
+<td class="rgt">221,548</td>
+<td class="rgt">1,232,817</td>
+<td class="rgt">278,619</td>
+<td class="rgt">33,386</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동성사채</th>
+<td class="rgt">5,304</td>
+<td class="rgt">205,442</td>
+<td class="rgt">1,213,534</td>
+<td class="rgt">5,201</td>
+<td class="rgt">5,439</td>
+</tr>
+<tr>
+<th scope="row">비유동부채(계)</th>
+<td class="rgt">10,320,857</td>
+<td class="rgt">12,616,807</td>
+<td class="rgt">14,507,196</td>
+<td class="rgt">20,085,548</td>
+<td class="rgt">22,522,557</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">장기사채(계)</th>
+<td class="rgt">1,355,882</td>
+<td class="rgt">1,230,448</td>
+<td class="rgt">58,542</td>
+<td class="rgt">953,361</td>
+<td class="rgt">961,972</td>
+</tr>
+<tr>
+<th scope="row">장기차입금(계)</th>
+<td class="rgt">101,671</td>
+<td class="rgt">266,542</td>
+<td class="rgt">1,244,238</td>
+<td class="rgt">1,814,446</td>
+<td class="rgt">85,085</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">장기부채성충당부채(계)</th>
+<td class="rgt">700,632</td>
+<td class="rgt">881,198</td>
+<td class="rgt">531,782</td>
+<td class="rgt">854,246</td>
+<td class="rgt">1,167,683</td>
+</tr>
+<tr>
+<th scope="row">부채총계</th>
+<td class="rgt">62,334,770</td>
+<td class="rgt">63,119,716</td>
+<td class="rgt">69,211,291</td>
+<td class="rgt">87,260,662</td>
+<td class="rgt">91,604,067</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본금</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr>
+<th scope="row">보통주자본금</th>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본잉여금</th>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+<td class="rgt">4,403,893</td>
+</tr>
+<tr>
+<th scope="row">자본조정</th>
+<td class="rgt"><font color="red">-8,495,082</font></td>
+<td class="rgt"><font color="red">-13,568,315</font></td>
+<td class="rgt"><font color="red">-9,735,109</font></td>
+<td class="rgt"><font color="red">-6,222,151</font></td>
+<td class="rgt">59,881</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타포괄손익누계액</th>
+<td class="rgt"><font color="red">-4,154,204</font></td>
+<td class="rgt"><font color="red">-3,988,339</font></td>
+<td class="rgt"><font color="red">-2,228,287</font></td>
+<td class="rgt"><font color="red">-7,677,040</font></td>
+<td class="rgt"><font color="red">-7,991,251</font></td>
+</tr>
+<tr>
+<th scope="row">이익잉여금</th>
+<td class="rgt">169,529,604</td>
+<td class="rgt">185,132,014</td>
+<td class="rgt">193,086,317</td>
+<td class="rgt">215,811,200</td>
+<td class="rgt">242,698,956</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본총계</th>
+<td class="rgt">168,088,188</td>
+<td class="rgt">179,059,805</td>
+<td class="rgt">192,963,033</td>
+<td class="rgt">214,491,428</td>
+<td class="rgt">247,753,177</td>
+</tr>
+<tr>
+<th scope="row">부채와자본총계</th>
+<td class="rgt">230,422,958</td>
+<td class="rgt">242,179,521</td>
+<td class="rgt">262,174,324</td>
+<td class="rgt">301,752,090</td>
+<td class="rgt">339,357,244</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_ka7" onclick="per_cha(this.value)" type="radio" value="p"/>분기
+							<input checked="" name="period_kb7" onclick="per_cha(this.value)" type="radio" value="y"/>연간
+							<select id="SinS3" name="SinS3" onchange="onDisplay2(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[17]
+<div class="section1 pt40" name="yht0">
+<h4 class="h4_b1 fl">현금흐름표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="현금흐름표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">현금흐름표</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">영업활동으로인한현금흐름</th>
+<td class="rgt">18,653,817</td>
+<td class="rgt">19,287,521</td>
+<td class="rgt">23,984,804</td>
+<td class="rgt">38,906,190</td>
+<td class="rgt">44,341,217</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">14,591,781</td>
+<td class="rgt">12,238,469</td>
+<td class="rgt">11,579,749</td>
+<td class="rgt">28,800,837</td>
+<td class="rgt">32,815,127</td>
+</tr>
+<tr>
+<th scope="row">현금유출없는비용등가산</th>
+<td class="rgt">15,278,190</td>
+<td class="rgt">15,507,657</td>
+<td class="rgt">18,190,773</td>
+<td class="rgt">21,446,160</td>
+<td class="rgt">28,689,146</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입없는수익등차감</th>
+<td class="rgt">4,383,466</td>
+<td class="rgt">2,420,195</td>
+<td class="rgt">3,280,680</td>
+<td class="rgt">3,433,184</td>
+<td class="rgt">1,593,997</td>
+</tr>
+<tr>
+<th scope="row">영업활동관련자산부채변동</th>
+<td class="rgt"><font color="red">-4,631,904</font></td>
+<td class="rgt"><font color="red">-5,568,962</font></td>
+<td class="rgt"><font color="red">-1,588,378</font></td>
+<td class="rgt"><font color="red">-5,463,342</font></td>
+<td class="rgt"><font color="red">-6,313,965</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">금융비용유출액</th>
+<td class="rgt">91,827</td>
+<td class="rgt">153,195</td>
+<td class="rgt">208,010</td>
+<td class="rgt">265,364</td>
+<td class="rgt">343,270</td>
+</tr>
+<tr>
+<th scope="row">이자수익유입액</th>
+<td class="rgt">854,946</td>
+<td class="rgt">890,456</td>
+<td class="rgt">622,118</td>
+<td class="rgt">491,501</td>
+<td class="rgt">459,074</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">배당금수익유입액</th>
+<td class="rgt">1,505,107</td>
+<td class="rgt">1,914,856</td>
+<td class="rgt">903,758</td>
+<td class="rgt">1,118,779</td>
+<td class="rgt">779,567</td>
+</tr>
+<tr>
+<th scope="row">법인세의납부(환급)</th>
+<td class="rgt">4,469,010</td>
+<td class="rgt">3,121,565</td>
+<td class="rgt">2,234,526</td>
+<td class="rgt">3,789,197</td>
+<td class="rgt">10,150,465</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-15,951,220</font></td>
+<td class="rgt"><font color="red">-14,003,962</font></td>
+<td class="rgt"><font color="red">-14,240,450</font></td>
+<td class="rgt"><font color="red">-28,118,806</font></td>
+<td class="rgt"><font color="red">-31,678,548</font></td>
+</tr>
+<tr>
+<th scope="row">투자활동으로인한현금유입</th>
+<td class="rgt">3,385,968</td>
+<td class="rgt">4,911,410</td>
+<td class="rgt">7,200,130</td>
+<td class="rgt">6,522,127</td>
+<td class="rgt">381,876</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금유출</th>
+<td class="rgt">19,337,188</td>
+<td class="rgt">18,915,372</td>
+<td class="rgt">21,440,580</td>
+<td class="rgt">34,640,933</td>
+<td class="rgt">32,060,424</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-3,089,586</font></td>
+<td class="rgt"><font color="red">-3,854,887</font></td>
+<td class="rgt"><font color="red">-9,037,006</font></td>
+<td class="rgt"><font color="red">-11,801,987</font></td>
+<td class="rgt"><font color="red">-12,818,480</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재무활동으로인한현금유입</th>
+<td class="rgt">198,158</td>
+<td class="rgt">4,239,129</td>
+<td class="rgt">1,737,871</td>
+<td class="rgt">3,300,611</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금유출</th>
+<td class="rgt">3,287,744</td>
+<td class="rgt">8,094,016</td>
+<td class="rgt">10,774,877</td>
+<td class="rgt">15,102,598</td>
+<td class="rgt">12,818,480</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">환율변동으로인한차이조정</th>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-9,030</font></td>
+<td class="rgt">8,063</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">현금및현금성자산의증가(감소)</th>
+<td class="rgt"><font color="red">-386,989</font></td>
+<td class="rgt">1,428,672</td>
+<td class="rgt">707,348</td>
+<td class="rgt"><font color="red">-1,014,603</font></td>
+<td class="rgt"><font color="red">-155,811</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기초의현금및현금성자산</th>
+<td class="rgt">2,030,307</td>
+<td class="rgt">1,643,318</td>
+<td class="rgt">3,062,960</td>
+<td class="rgt">3,778,371</td>
+<td class="rgt">2,763,768</td>
+</tr>
+<tr>
+<th scope="row">기말의현금및현금성자산</th>
+<td class="rgt">1,643,318</td>
+<td class="rgt">3,062,960</td>
+<td class="rgt">3,778,371</td>
+<td class="rgt">2,763,768</td>
+<td class="rgt">2,607,957</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입과유출없는거래</th>
+<td class="rgt">9,411,535</td>
+<td class="rgt">16,061,742</td>
+<td class="rgt">9,357,040</td>
+<td class="rgt">27,917,001</td>
+<td class="rgt">29,382,443</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_kc1" onclick="per_cha(this.value)" type="radio" value="ph"/>분기
+							<input checked="" name="period_kd1" onclick="per_cha(this.value)" type="radio" value="yh"/>연간
+							<select id="ShinS0" name="ShinS0" onchange="onDisplay5(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAPP 개별</option>
+<option value="3">K-GAPP 연결</option>
+</select>
+</p>
+</div>
+[18]
+<div class="section1 pt40" name="ppt1" style="display:none">
+<h4 class="h4_b1 fl">포괄손익계산서</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="포괄손익계산서, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">포괄손익계산서</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">수익</th>
+<td class="rgt">65,978,412</td>
+<td class="rgt">60,563,714</td>
+<td class="rgt">58,482,658</td>
+<td class="rgt">65,459,993</td>
+<td class="rgt">59,265,050</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출원가</th>
+<td class="rgt">35,731,116</td>
+<td class="rgt">31,909,472</td>
+<td class="rgt">31,274,597</td>
+<td class="rgt">35,194,358</td>
+<td class="rgt">34,015,984</td>
+</tr>
+<tr>
+<th scope="row">매출총이익(손실)</th>
+<td class="rgt">30,247,296</td>
+<td class="rgt">28,654,242</td>
+<td class="rgt">27,208,061</td>
+<td class="rgt">30,265,635</td>
+<td class="rgt">25,249,066</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">판매비와관리비</th>
+<td class="rgt">15,100,325</td>
+<td class="rgt">13,012,072</td>
+<td class="rgt">12,339,026</td>
+<td class="rgt">12,690,770</td>
+<td class="rgt">14,448,467</td>
+</tr>
+<tr>
+<th scope="row">인건비</th>
+<td class="rgt">1,561,416</td>
+<td class="rgt">1,647,865</td>
+<td class="rgt">1,567,761</td>
+<td class="rgt">1,571,249</td>
+<td class="rgt">1,664,520</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">일반관리비</th>
+<td class="rgt">2,255,894</td>
+<td class="rgt">1,851,957</td>
+<td class="rgt">1,295,985</td>
+<td class="rgt">1,757,586</td>
+<td class="rgt">1,858,027</td>
+</tr>
+<tr>
+<th scope="row">판매비</th>
+<td class="rgt">5,357,937</td>
+<td class="rgt">4,062,914</td>
+<td class="rgt">3,991,917</td>
+<td class="rgt">3,828,275</td>
+<td class="rgt">4,457,044</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타판매비와관리비</th>
+<td class="rgt">5,925,078</td>
+<td class="rgt">5,449,336</td>
+<td class="rgt">5,483,363</td>
+<td class="rgt">5,533,660</td>
+<td class="rgt">6,468,876</td>
+</tr>
+<tr>
+<th scope="row">영업이익(손실)</th>
+<td class="rgt">15,146,971</td>
+<td class="rgt">15,642,170</td>
+<td class="rgt">14,869,035</td>
+<td class="rgt">17,574,865</td>
+<td class="rgt">10,800,599</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">영업외수익</th>
+<td class="rgt">5,349,539</td>
+<td class="rgt">2,735,596</td>
+<td class="rgt">3,595,973</td>
+<td class="rgt">2,805,712</td>
+<td class="rgt">2,886,922</td>
+</tr>
+<tr>
+<th scope="row">영업외비용</th>
+<td class="rgt">3,792,124</td>
+<td class="rgt">2,201,859</td>
+<td class="rgt">3,058,172</td>
+<td class="rgt">2,411,233</td>
+<td class="rgt">2,079,650</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">법인세비용차감전계속영업이익(손실)</th>
+<td class="rgt">16,704,386</td>
+<td class="rgt">16,175,907</td>
+<td class="rgt">15,406,836</td>
+<td class="rgt">17,969,344</td>
+<td class="rgt">11,607,871</td>
+</tr>
+<tr>
+<th scope="row">계속영업손익법인세비용(부의법인세비용)</th>
+<td class="rgt">4,449,255</td>
+<td class="rgt">4,487,363</td>
+<td class="rgt">4,363,424</td>
+<td class="rgt">4,818,629</td>
+<td class="rgt">3,145,685</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">계속영업이익(손실)</th>
+<td class="rgt">12,255,131</td>
+<td class="rgt">11,688,544</td>
+<td class="rgt">11,043,412</td>
+<td class="rgt">13,150,715</td>
+<td class="rgt">8,462,186</td>
+</tr>
+<tr>
+<th scope="row">총당기순이익</th>
+<td class="rgt">12,255,131</td>
+<td class="rgt">11,688,544</td>
+<td class="rgt">11,043,412</td>
+<td class="rgt">13,150,715</td>
+<td class="rgt">8,462,186</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익지배기업지분</th>
+<td class="rgt">12,016,324</td>
+<td class="rgt">11,611,833</td>
+<td class="rgt">10,981,547</td>
+<td class="rgt">12,967,428</td>
+<td class="rgt">8,330,069</td>
+</tr>
+<tr>
+<th scope="row">당기순이익비지배지분(소수주주지분)</th>
+<td class="rgt">238,807</td>
+<td class="rgt">76,711</td>
+<td class="rgt">61,865</td>
+<td class="rgt">183,287</td>
+<td class="rgt">132,117</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타포괄손익</th>
+<td class="rgt"><font color="red">-5,406,741</font></td>
+<td class="rgt">922,852</td>
+<td class="rgt">1,226,240</td>
+<td class="rgt"><font color="red">-1,762,131</font></td>
+<td class="rgt"><font color="red">-399,203</font></td>
+</tr>
+<tr>
+<th scope="row">포괄손익</th>
+<td class="rgt">6,848,390</td>
+<td class="rgt">12,611,396</td>
+<td class="rgt">12,269,652</td>
+<td class="rgt">11,388,584</td>
+<td class="rgt">8,062,983</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">포괄손익지배기업지분</th>
+<td class="rgt">6,702,716</td>
+<td class="rgt">12,516,850</td>
+<td class="rgt">12,188,562</td>
+<td class="rgt">11,209,717</td>
+<td class="rgt">7,967,344</td>
+</tr>
+<tr>
+<th scope="row">포괄손익비지배지분(소수주주지분)</th>
+<td class="rgt">145,674</td>
+<td class="rgt">94,546</td>
+<td class="rgt">81,090</td>
+<td class="rgt">178,867</td>
+<td class="rgt">95,639</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_ke4" onclick="per_cha(this.value)" type="radio" value="pp"/>분기
+							<input name="period_kf4" onclick="per_cha(this.value)" type="radio" value="yp"/>연간
+							<select id="PpinS1" name="PpinS1" onchange="onDisplay8(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[19]
+<div class="section1 pt40" name="pht2" style="display:none">
+<h4 class="h4_b1 fl">현금흐름표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="현금흐름표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">현금흐름표</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">영업활동으로인한현금흐름</th>
+<td class="rgt">15,245,347</td>
+<td class="rgt">13,056,587</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">14,998,326</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">10,005,971</td>
+<td class="rgt">8,452,458</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">6,073,136</td>
+</tr>
+<tr>
+<th scope="row">현금유출없는비용등가산</th>
+<td class="rgt">5,419,329</td>
+<td class="rgt">7,002,312</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">4,550,689</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입없는수익등차감</th>
+<td class="rgt">1,226,286</td>
+<td class="rgt"><font color="red">-52,729</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">401,787</td>
+</tr>
+<tr>
+<th scope="row">영업활동관련자산부채변동</th>
+<td class="rgt">1,046,333</td>
+<td class="rgt"><font color="red">-2,450,912</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">4,776,288</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-12,294,415</font></td>
+<td class="rgt"><font color="red">-2,629,346</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-9,428,122</font></td>
+</tr>
+<tr>
+<th scope="row">투자활동으로인한현금유입</th>
+<td class="rgt"><font color="red">-4,319,769</font></td>
+<td class="rgt">5,518,892</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">54,848</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금유출</th>
+<td class="rgt">7,974,646</td>
+<td class="rgt">8,148,238</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">9,482,970</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금흐름</th>
+<td class="rgt"><font color="red">-3,143,118</font></td>
+<td class="rgt"><font color="red">-5,421,419</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-6,882,279</font></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재무활동으로인한현금유입</th>
+<td class="rgt"><font color="red">-151,406</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-2,676,493</font></td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금유출</th>
+<td class="rgt">2,991,712</td>
+<td class="rgt">5,421,419</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">4,205,786</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금의증가(감소)</th>
+<td class="rgt"><font color="red">-192,186</font></td>
+<td class="rgt">5,005,822</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-1,312,075</font></td>
+</tr>
+<tr>
+<th scope="row">기초의현금</th>
+<td class="rgt">-</td>
+<td class="rgt">2,763,768</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기말의현금</th>
+<td class="rgt"><font color="red">-192,186</font></td>
+<td class="rgt">7,769,590</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-1,312,075</font></td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_kc6" onclick="per_cha(this.value)" type="radio" value="ph"/>분기
+							<input name="period_kd6" onclick="per_cha(this.value)" type="radio" value="yh"/>연간
+							<select id="PhinS2" name="PhinS2" onchange="onDisplay6(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[20]
+<div class="section1 pt40" name="ypt2">
+<h4 class="h4_b1 fl">포괄손익계산서</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="포괄손익계산서, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">포괄손익계산서</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">매출액</th>
+<td class="rgt">137,825,547</td>
+<td class="rgt">135,205,045</td>
+<td class="rgt">133,947,204</td>
+<td class="rgt">161,915,007</td>
+<td class="rgt">170,381,870</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출원가</th>
+<td class="rgt">99,188,713</td>
+<td class="rgt">99,659,336</td>
+<td class="rgt">97,290,644</td>
+<td class="rgt">101,399,657</td>
+<td class="rgt">101,666,506</td>
+</tr>
+<tr>
+<th scope="row">매출총이익(손실)</th>
+<td class="rgt">38,636,834</td>
+<td class="rgt">35,545,709</td>
+<td class="rgt">36,656,560</td>
+<td class="rgt">60,515,350</td>
+<td class="rgt">68,715,364</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">판매비와관리비</th>
+<td class="rgt">24,711,840</td>
+<td class="rgt">22,147,494</td>
+<td class="rgt">23,009,124</td>
+<td class="rgt">25,658,259</td>
+<td class="rgt">25,015,913</td>
+</tr>
+<tr>
+<th scope="row">인건비</th>
+<td class="rgt">1,930,687</td>
+<td class="rgt">1,956,691</td>
+<td class="rgt">2,127,252</td>
+<td class="rgt">2,165,834</td>
+<td class="rgt">1,974,449</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">일반관리비</th>
+<td class="rgt">4,251,299</td>
+<td class="rgt">3,751,839</td>
+<td class="rgt">3,603,949</td>
+<td class="rgt">3,971,403</td>
+<td class="rgt">2,825,500</td>
+</tr>
+<tr>
+<th scope="row">판매비</th>
+<td class="rgt">3,401,839</td>
+<td class="rgt">2,894,830</td>
+<td class="rgt">3,170,449</td>
+<td class="rgt">4,114,067</td>
+<td class="rgt">3,064,430</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타판매비와관리비</th>
+<td class="rgt">15,128,015</td>
+<td class="rgt">13,544,134</td>
+<td class="rgt">14,107,474</td>
+<td class="rgt">15,406,955</td>
+<td class="rgt">17,151,534</td>
+</tr>
+<tr>
+<th scope="row">영업이익(손실)</th>
+<td class="rgt">13,924,994</td>
+<td class="rgt">13,398,215</td>
+<td class="rgt">13,647,436</td>
+<td class="rgt">34,857,091</td>
+<td class="rgt">43,699,451</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">영업외수익</th>
+<td class="rgt">7,796,421</td>
+<td class="rgt">6,460,575</td>
+<td class="rgt">7,989,351</td>
+<td class="rgt">6,843,569</td>
+<td class="rgt">4,709,639</td>
+</tr>
+<tr>
+<th scope="row">영업외비용</th>
+<td class="rgt">4,440,774</td>
+<td class="rgt">5,506,173</td>
+<td class="rgt">6,911,713</td>
+<td class="rgt">5,167,108</td>
+<td class="rgt">4,010,235</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">법인세비용차감전계속사업이익(손실)</th>
+<td class="rgt">17,280,641</td>
+<td class="rgt">14,352,617</td>
+<td class="rgt">14,725,074</td>
+<td class="rgt">36,533,552</td>
+<td class="rgt">44,398,855</td>
+</tr>
+<tr>
+<th scope="row">계속사업손익법인세비용(부의법인세비용)</th>
+<td class="rgt">2,688,860</td>
+<td class="rgt">2,114,148</td>
+<td class="rgt">3,145,325</td>
+<td class="rgt">7,732,715</td>
+<td class="rgt">11,583,728</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">계속사업이익(손실)</th>
+<td class="rgt">14,591,781</td>
+<td class="rgt">12,238,469</td>
+<td class="rgt">11,579,749</td>
+<td class="rgt">28,800,837</td>
+<td class="rgt">32,815,127</td>
+</tr>
+<tr>
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">14,591,781</td>
+<td class="rgt">12,238,469</td>
+<td class="rgt">11,579,749</td>
+<td class="rgt">28,800,837</td>
+<td class="rgt">32,815,127</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">[포괄손익]</th>
+<td class="rgt">13,565,313</td>
+<td class="rgt">11,837,173</td>
+<td class="rgt">11,887,806</td>
+<td class="rgt">29,120,561</td>
+<td class="rgt">32,436,806</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_ke5" onclick="per_cha(this.value)" type="radio" value="pp"/>분기
+							<input checked="" name="period_kf5" onclick="per_cha(this.value)" type="radio" value="yp"/>연간
+							<select id="SpinS2" name="SpinS2" onchange="onDisplay7(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[21]
+<div class="section1 pt40" name="pht3" style="display:none">
+<h4 class="h4_b1 fl">현금흐름표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="현금흐름표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">현금흐름표</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">영업활동으로인한현금흐름</th>
+<td class="rgt">-</td>
+<td class="rgt">15,616,352</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">-</td>
+<td class="rgt">11,688,544</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">현금유출없는비용등가산</th>
+<td class="rgt">-</td>
+<td class="rgt">11,982,685</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금유입없는수익등차감</th>
+<td class="rgt">-</td>
+<td class="rgt">1,252,356</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">영업활동관련자산부채변동</th>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-6,802,521</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금흐름</th>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-7,373,336</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">투자활동으로인한현금유입</th>
+<td class="rgt">-</td>
+<td class="rgt">3,803,599</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">투자활동으로인한현금유출</th>
+<td class="rgt">-</td>
+<td class="rgt">11,176,935</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금흐름</th>
+<td class="rgt">-</td>
+<td class="rgt"><font color="red">-6,929,313</font></td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">재무활동으로인한현금유입</th>
+<td class="rgt">-</td>
+<td class="rgt">7,188</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">재무활동으로인한현금유출</th>
+<td class="rgt">-</td>
+<td class="rgt">6,936,501</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">현금의증가(감소)</th>
+<td class="rgt">-</td>
+<td class="rgt">1,313,703</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">환율변동으로인한차이조정</th>
+<td class="rgt">-</td>
+<td class="rgt">444,919</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기초의현금</th>
+<td class="rgt">-</td>
+<td class="rgt">30,545,130</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">기말의현금</th>
+<td class="rgt">-</td>
+<td class="rgt">32,303,752</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_kc8" onclick="per_cha(this.value)" type="radio" value="ph"/>분기
+							<input name="period_kd8" onclick="per_cha(this.value)" type="radio" value="yh"/>연간
+							<select id="PhinS3" name="PhinS3" onchange="onDisplay6(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p></div>
+[22]
+<div class="section1" name="pt0" style="display:none">
+<h3 class="h3_b1">재무제표</h3>
+<h4 class="h4_b1 fl">재무상태표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="재무상태표, 기간별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">재무상태표</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">비유동자산(계)</th>
+<td class="rgt">128,086,171</td>
+<td class="rgt">132,836,079</td>
+<td class="rgt">135,899,888</td>
+<td class="rgt">135,895,097</td>
+<td class="rgt">138,981,902</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유형자산(계)</th>
+<td class="rgt">62,816,961</td>
+<td class="rgt">66,737,192</td>
+<td class="rgt">69,235,302</td>
+<td class="rgt">69,525,464</td>
+<td class="rgt">70,602,493</td>
+</tr>
+<tr>
+<th scope="row">무형자산(계)</th>
+<td class="rgt">2,827,035</td>
+<td class="rgt">2,823,356</td>
+<td class="rgt">2,857,695</td>
+<td class="rgt">2,814,997</td>
+<td class="rgt">2,901,476</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">장기투자자산</th>
+<td class="rgt">56,645,112</td>
+<td class="rgt">56,720,753</td>
+<td class="rgt">56,981,161</td>
+<td class="rgt">57,044,296</td>
+<td class="rgt">57,065,723</td>
+</tr>
+<tr>
+<th scope="row">이연법인세자산</th>
+<td class="rgt">586,161</td>
+<td class="rgt">513,258</td>
+<td class="rgt">539,655</td>
+<td class="rgt">388,861</td>
+<td class="rgt">654,456</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타금융자산</th>
+<td class="rgt">811,210</td>
+<td class="rgt">626,827</td>
+<td class="rgt">458,491</td>
+<td class="rgt">289,962</td>
+<td class="rgt">562,356</td>
+</tr>
+<tr>
+<th scope="row">기타비금융자산</th>
+<td class="rgt">4,399,692</td>
+<td class="rgt">5,414,693</td>
+<td class="rgt">5,827,584</td>
+<td class="rgt">5,831,517</td>
+<td class="rgt">7,195,398</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동자산(계)</th>
+<td class="rgt">70,155,189</td>
+<td class="rgt">72,370,085</td>
+<td class="rgt">68,070,224</td>
+<td class="rgt">81,904,347</td>
+<td class="rgt">80,039,455</td>
+</tr>
+<tr>
+<th scope="row">재고자산(계)</th>
+<td class="rgt">7,837,144</td>
+<td class="rgt">8,915,860</td>
+<td class="rgt">9,935,909</td>
+<td class="rgt">10,357,340</td>
+<td class="rgt">12,440,951</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출채권및기타채권</th>
+<td class="rgt">30,083,179</td>
+<td class="rgt">31,333,954</td>
+<td class="rgt">29,721,468</td>
+<td class="rgt">33,992,619</td>
+<td class="rgt">26,448,346</td>
+</tr>
+<tr>
+<th scope="row">단기투자자산</th>
+<td class="rgt">25,510,064</td>
+<td class="rgt">20,136,857</td>
+<td class="rgt">20,137,337</td>
+<td class="rgt">29,461,618</td>
+<td class="rgt">34,113,871</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타비금융자산</th>
+<td class="rgt">3,961,034</td>
+<td class="rgt">4,213,824</td>
+<td class="rgt">4,293,562</td>
+<td class="rgt">4,172,738</td>
+<td class="rgt">4,428,330</td>
+</tr>
+<tr>
+<th scope="row">현금및현금성자산</th>
+<td class="rgt">2,763,768</td>
+<td class="rgt">7,769,590</td>
+<td class="rgt">3,981,948</td>
+<td class="rgt">3,920,032</td>
+<td class="rgt">2,607,957</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자산총계</th>
+<td class="rgt">198,241,360</td>
+<td class="rgt">205,206,164</td>
+<td class="rgt">203,970,112</td>
+<td class="rgt">217,799,444</td>
+<td class="rgt">219,021,357</td>
+</tr>
+<tr>
+<th scope="row">납입자본</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본금</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr>
+<th scope="row">보통주자본금</th>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">이익잉여금</th>
+<td class="rgt">150,928,724</td>
+<td class="rgt">154,284,538</td>
+<td class="rgt">159,960,751</td>
+<td class="rgt">167,767,562</td>
+<td class="rgt">166,555,532</td>
+</tr>
+<tr>
+<th scope="row">기타자본구성요소</th>
+<td class="rgt"><font color="red">-256,463</font></td>
+<td class="rgt">1,013,320</td>
+<td class="rgt">981,372</td>
+<td class="rgt">993,738</td>
+<td class="rgt">5,535,079</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본총계</th>
+<td class="rgt">151,569,775</td>
+<td class="rgt">156,195,372</td>
+<td class="rgt">161,839,637</td>
+<td class="rgt">169,658,814</td>
+<td class="rgt">172,988,125</td>
+</tr>
+<tr>
+<th scope="row">비유동부채(계)</th>
+<td class="rgt">2,176,501</td>
+<td class="rgt">1,842,051</td>
+<td class="rgt">1,926,719</td>
+<td class="rgt">1,771,916</td>
+<td class="rgt">2,888,179</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매입채무및기타채무</th>
+<td class="rgt">1,750,379</td>
+<td class="rgt">1,365,702</td>
+<td class="rgt">1,397,528</td>
+<td class="rgt">1,192,667</td>
+<td class="rgt">2,472,416</td>
+</tr>
+<tr>
+<th scope="row">비유동차입부채</th>
+<td class="rgt">46,808</td>
+<td class="rgt">46,651</td>
+<td class="rgt">49,129</td>
+<td class="rgt">48,798</td>
+<td class="rgt">43,516</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타비금융부채</th>
+<td class="rgt">113</td>
+<td class="rgt">93</td>
+<td class="rgt">54</td>
+<td class="rgt">39</td>
+<td class="rgt">30</td>
+</tr>
+<tr>
+<th scope="row">장기충당부채(계)</th>
+<td class="rgt">379,201</td>
+<td class="rgt">429,605</td>
+<td class="rgt">480,008</td>
+<td class="rgt">530,412</td>
+<td class="rgt">372,217</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동부채(계)</th>
+<td class="rgt">44,495,084</td>
+<td class="rgt">47,168,741</td>
+<td class="rgt">40,203,756</td>
+<td class="rgt">46,368,714</td>
+<td class="rgt">43,145,053</td>
+</tr>
+<tr>
+<th scope="row">매입채무및기타채무</th>
+<td class="rgt">23,155,697</td>
+<td class="rgt">26,592,992</td>
+<td class="rgt">19,714,333</td>
+<td class="rgt">19,247,018</td>
+<td class="rgt">22,403,922</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동차입부채</th>
+<td class="rgt">12,234,902</td>
+<td class="rgt">7,663,060</td>
+<td class="rgt">10,700,763</td>
+<td class="rgt">14,832,600</td>
+<td class="rgt">10,359,313</td>
+</tr>
+<tr>
+<th scope="row">당기법인세부채</th>
+<td class="rgt">6,565,781</td>
+<td class="rgt">9,553,005</td>
+<td class="rgt">5,891,609</td>
+<td class="rgt">7,664,909</td>
+<td class="rgt">7,925,887</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타비금융부채</th>
+<td class="rgt">265,016</td>
+<td class="rgt">466,158</td>
+<td class="rgt">402,296</td>
+<td class="rgt">537,857</td>
+<td class="rgt">320,617</td>
+</tr>
+<tr>
+<th scope="row">단기충당부채</th>
+<td class="rgt">2,273,688</td>
+<td class="rgt">2,893,526</td>
+<td class="rgt">3,494,755</td>
+<td class="rgt">4,086,330</td>
+<td class="rgt">2,135,314</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">부채총계</th>
+<td class="rgt">46,671,585</td>
+<td class="rgt">49,010,792</td>
+<td class="rgt">42,130,475</td>
+<td class="rgt">48,140,630</td>
+<td class="rgt">46,033,232</td>
+</tr>
+<tr>
+<th scope="row">부채와자본총계</th>
+<td class="rgt">198,241,360</td>
+<td class="rgt">205,206,164</td>
+<td class="rgt">203,970,112</td>
+<td class="rgt">217,799,444</td>
+<td class="rgt">219,021,357</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_ka2" onclick="per_cha(this.value)" type="radio" value="p"/>분기
+							<input name="period_kb2" onclick="per_cha(this.value)" type="radio" value="y"/>연간
+							<select id="PinS0" name="PinS0" onchange="onDisplay4(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[23]
+<div class="section1 pt40" name="ypt0">
+<h4 class="h4_b1 fl">포괄손익계산서</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="포괄손익계산서, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">포괄손익계산서</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">수익</th>
+<td class="rgt">137,825,547</td>
+<td class="rgt">135,205,045</td>
+<td class="rgt">133,947,204</td>
+<td class="rgt">161,915,007</td>
+<td class="rgt">170,381,870</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출원가</th>
+<td class="rgt">99,188,713</td>
+<td class="rgt">99,659,336</td>
+<td class="rgt">97,290,644</td>
+<td class="rgt">101,399,657</td>
+<td class="rgt">101,666,506</td>
+</tr>
+<tr>
+<th scope="row">매출총이익(손실)</th>
+<td class="rgt">38,636,834</td>
+<td class="rgt">35,545,709</td>
+<td class="rgt">36,656,560</td>
+<td class="rgt">60,515,350</td>
+<td class="rgt">68,715,364</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">판매비와관리비</th>
+<td class="rgt">24,711,840</td>
+<td class="rgt">22,147,494</td>
+<td class="rgt">23,009,124</td>
+<td class="rgt">25,658,259</td>
+<td class="rgt">25,015,913</td>
+</tr>
+<tr>
+<th scope="row">인건비</th>
+<td class="rgt">1,930,687</td>
+<td class="rgt">1,956,691</td>
+<td class="rgt">2,127,252</td>
+<td class="rgt">2,165,834</td>
+<td class="rgt">1,974,449</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">일반관리비</th>
+<td class="rgt">4,251,299</td>
+<td class="rgt">3,751,839</td>
+<td class="rgt">3,603,949</td>
+<td class="rgt">3,971,403</td>
+<td class="rgt">2,825,500</td>
+</tr>
+<tr>
+<th scope="row">판매비</th>
+<td class="rgt">3,401,839</td>
+<td class="rgt">2,894,830</td>
+<td class="rgt">3,170,449</td>
+<td class="rgt">4,114,067</td>
+<td class="rgt">3,064,430</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타판매비와관리비</th>
+<td class="rgt">15,128,015</td>
+<td class="rgt">13,544,134</td>
+<td class="rgt">14,107,474</td>
+<td class="rgt">15,406,955</td>
+<td class="rgt">17,151,534</td>
+</tr>
+<tr>
+<th scope="row">영업이익(손실)</th>
+<td class="rgt">13,924,994</td>
+<td class="rgt">13,398,215</td>
+<td class="rgt">13,647,436</td>
+<td class="rgt">34,857,091</td>
+<td class="rgt">43,699,451</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">영업외수익</th>
+<td class="rgt">7,796,421</td>
+<td class="rgt">6,460,575</td>
+<td class="rgt">7,989,351</td>
+<td class="rgt">6,843,569</td>
+<td class="rgt">4,709,639</td>
+</tr>
+<tr>
+<th scope="row">영업외비용</th>
+<td class="rgt">4,440,774</td>
+<td class="rgt">5,506,173</td>
+<td class="rgt">6,911,713</td>
+<td class="rgt">5,167,108</td>
+<td class="rgt">4,010,235</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">법인세비용차감전계속영업이익(손실)</th>
+<td class="rgt">17,280,641</td>
+<td class="rgt">14,352,617</td>
+<td class="rgt">14,725,074</td>
+<td class="rgt">36,533,552</td>
+<td class="rgt">44,398,855</td>
+</tr>
+<tr>
+<th scope="row">계속영업손익법인세비용(부의법인세비용)</th>
+<td class="rgt">2,688,860</td>
+<td class="rgt">2,114,148</td>
+<td class="rgt">3,145,325</td>
+<td class="rgt">7,732,715</td>
+<td class="rgt">11,583,728</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">계속영업이익(손실)</th>
+<td class="rgt">14,591,781</td>
+<td class="rgt">12,238,469</td>
+<td class="rgt">11,579,749</td>
+<td class="rgt">28,800,837</td>
+<td class="rgt">32,815,127</td>
+</tr>
+<tr>
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">14,591,781</td>
+<td class="rgt">12,238,469</td>
+<td class="rgt">11,579,749</td>
+<td class="rgt">28,800,837</td>
+<td class="rgt">32,815,127</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타포괄손익</th>
+<td class="rgt"><font color="red">-1,026,468</font></td>
+<td class="rgt"><font color="red">-401,296</font></td>
+<td class="rgt">308,057</td>
+<td class="rgt">319,724</td>
+<td class="rgt"><font color="red">-378,321</font></td>
+</tr>
+<tr>
+<th scope="row">포괄손익</th>
+<td class="rgt">13,565,313</td>
+<td class="rgt">11,837,173</td>
+<td class="rgt">11,887,806</td>
+<td class="rgt">29,120,561</td>
+<td class="rgt">32,436,806</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_ke1" onclick="per_cha(this.value)" type="radio" value="pp"/>분기
+							<input checked="" name="period_kf1" onclick="per_cha(this.value)" type="radio" value="yp"/>연간
+							<select id="SpinS0" name="SpinS0" onchange="onDisplay7(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAPP 개별</option>
+<option value="3">K-GAPP 연결</option>
+</select>
+</p>
+</div>
+[24]
+<div class="section1" name="yt0">
+<h3 class="h3_b1">재무제표</h3>
+<h4 class="h4_b1 fl">재무상태표</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="재무상태표, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">재무상태표</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">비유동자산(계)</th>
+<td class="rgt">102,005,810</td>
+<td class="rgt">101,967,575</td>
+<td class="rgt">104,821,831</td>
+<td class="rgt">128,086,171</td>
+<td class="rgt">138,981,902</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유형자산(계)</th>
+<td class="rgt">43,744,259</td>
+<td class="rgt">45,148,629</td>
+<td class="rgt">47,228,830</td>
+<td class="rgt">62,816,961</td>
+<td class="rgt">70,602,493</td>
+</tr>
+<tr>
+<th scope="row">무형자산(계)</th>
+<td class="rgt">3,051,564</td>
+<td class="rgt">3,407,229</td>
+<td class="rgt">2,891,844</td>
+<td class="rgt">2,827,035</td>
+<td class="rgt">2,901,476</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">장기투자자산</th>
+<td class="rgt">48,963,665</td>
+<td class="rgt">47,312,681</td>
+<td class="rgt">49,657,068</td>
+<td class="rgt">56,645,112</td>
+<td class="rgt">57,065,723</td>
+</tr>
+<tr>
+<th scope="row">이연법인세자산</th>
+<td class="rgt">-</td>
+<td class="rgt">865,903</td>
+<td class="rgt">110,239</td>
+<td class="rgt">586,161</td>
+<td class="rgt">654,456</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타금융자산</th>
+<td class="rgt">135,951</td>
+<td class="rgt">56,174</td>
+<td class="rgt">557,091</td>
+<td class="rgt">811,210</td>
+<td class="rgt">562,356</td>
+</tr>
+<tr>
+<th scope="row">기타비금융자산</th>
+<td class="rgt">6,110,371</td>
+<td class="rgt">5,176,959</td>
+<td class="rgt">4,376,759</td>
+<td class="rgt">4,399,692</td>
+<td class="rgt">7,195,398</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">유동자산(계)</th>
+<td class="rgt">62,054,773</td>
+<td class="rgt">67,002,055</td>
+<td class="rgt">69,981,128</td>
+<td class="rgt">70,155,189</td>
+<td class="rgt">80,039,455</td>
+</tr>
+<tr>
+<th scope="row">재고자산(계)</th>
+<td class="rgt">5,553,834</td>
+<td class="rgt">6,578,112</td>
+<td class="rgt">5,981,634</td>
+<td class="rgt">7,837,144</td>
+<td class="rgt">12,440,951</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출채권및기타채권</th>
+<td class="rgt">22,159,759</td>
+<td class="rgt">22,566,287</td>
+<td class="rgt">25,833,794</td>
+<td class="rgt">30,083,179</td>
+<td class="rgt">26,448,346</td>
+</tr>
+<tr>
+<th scope="row">단기투자자산</th>
+<td class="rgt">28,591,626</td>
+<td class="rgt">30,784,799</td>
+<td class="rgt">30,170,656</td>
+<td class="rgt">25,510,064</td>
+<td class="rgt">34,113,871</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타비금융자산</th>
+<td class="rgt">3,644,553</td>
+<td class="rgt">3,932,824</td>
+<td class="rgt">3,932,983</td>
+<td class="rgt">3,961,034</td>
+<td class="rgt">4,428,330</td>
+</tr>
+<tr>
+<th scope="row">현금및현금성자산</th>
+<td class="rgt">1,643,318</td>
+<td class="rgt">3,062,960</td>
+<td class="rgt">3,778,371</td>
+<td class="rgt">2,763,768</td>
+<td class="rgt">2,607,957</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매각예정자산및처분자산집단</th>
+<td class="rgt">461,683</td>
+<td class="rgt">77,073</td>
+<td class="rgt">283,690</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">자산총계</th>
+<td class="rgt">164,060,583</td>
+<td class="rgt">168,969,630</td>
+<td class="rgt">174,802,959</td>
+<td class="rgt">198,241,360</td>
+<td class="rgt">219,021,357</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">납입자본</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr>
+<th scope="row">자본금</th>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+<td class="rgt">897,514</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">보통주자본금</th>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+<td class="rgt">778,047</td>
+</tr>
+<tr>
+<th scope="row">이익잉여금</th>
+<td class="rgt">134,464,189</td>
+<td class="rgt">143,629,177</td>
+<td class="rgt">140,747,574</td>
+<td class="rgt">150,928,724</td>
+<td class="rgt">166,555,532</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타자본구성요소</th>
+<td class="rgt"><font color="red">-2,709,378</font></td>
+<td class="rgt"><font color="red">-8,122,233</font></td>
+<td class="rgt"><font color="red">-4,098,326</font></td>
+<td class="rgt"><font color="red">-256,463</font></td>
+<td class="rgt">5,535,079</td>
+</tr>
+<tr>
+<th scope="row">매각예정자산관련자본액</th>
+<td class="rgt">24,750</td>
+<td class="rgt">23,797</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">자본총계</th>
+<td class="rgt">132,677,075</td>
+<td class="rgt">136,428,255</td>
+<td class="rgt">137,546,762</td>
+<td class="rgt">151,569,775</td>
+<td class="rgt">172,988,125</td>
+</tr>
+<tr>
+<th scope="row">비유동부채(계)</th>
+<td class="rgt">3,174,870</td>
+<td class="rgt">2,910,887</td>
+<td class="rgt">3,180,075</td>
+<td class="rgt">2,176,501</td>
+<td class="rgt">2,888,179</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매입채무및기타채무</th>
+<td class="rgt">2,305,055</td>
+<td class="rgt">2,387,934</td>
+<td class="rgt">2,808,460</td>
+<td class="rgt">1,750,379</td>
+<td class="rgt">2,472,416</td>
+</tr>
+<tr>
+<th scope="row">비유동차입부채</th>
+<td class="rgt">63,648</td>
+<td class="rgt">62,326</td>
+<td class="rgt">58,542</td>
+<td class="rgt">46,808</td>
+<td class="rgt">43,516</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">이연법인세부채</th>
+<td class="rgt">364,366</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">기타비금융부채</th>
+<td class="rgt">3,827</td>
+<td class="rgt">3,337</td>
+<td class="rgt">606</td>
+<td class="rgt">113</td>
+<td class="rgt">30</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">장기충당부채(계)</th>
+<td class="rgt">437,974</td>
+<td class="rgt">457,290</td>
+<td class="rgt">312,467</td>
+<td class="rgt">379,201</td>
+<td class="rgt">372,217</td>
+</tr>
+<tr>
+<th scope="row">유동부채(계)</th>
+<td class="rgt">28,208,638</td>
+<td class="rgt">29,630,488</td>
+<td class="rgt">34,076,122</td>
+<td class="rgt">44,495,084</td>
+<td class="rgt">43,145,053</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매입채무및기타채무</th>
+<td class="rgt">19,147,005</td>
+<td class="rgt">16,308,375</td>
+<td class="rgt">20,472,564</td>
+<td class="rgt">23,155,697</td>
+<td class="rgt">22,403,922</td>
+</tr>
+<tr>
+<th scope="row">유동차입부채</th>
+<td class="rgt">2,933,486</td>
+<td class="rgt">7,133,193</td>
+<td class="rgt">9,067,021</td>
+<td class="rgt">12,234,902</td>
+<td class="rgt">10,359,313</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기법인세부채</th>
+<td class="rgt">1,707,176</td>
+<td class="rgt">1,802,344</td>
+<td class="rgt">2,055,829</td>
+<td class="rgt">6,565,781</td>
+<td class="rgt">7,925,887</td>
+</tr>
+<tr>
+<th scope="row">기타비금융부채</th>
+<td class="rgt">154,658</td>
+<td class="rgt">178,831</td>
+<td class="rgt">258,991</td>
+<td class="rgt">265,016</td>
+<td class="rgt">320,617</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">단기충당부채</th>
+<td class="rgt">4,246,054</td>
+<td class="rgt">4,207,745</td>
+<td class="rgt">2,221,717</td>
+<td class="rgt">2,273,688</td>
+<td class="rgt">2,135,314</td>
+</tr>
+<tr>
+<th scope="row">매각예정부채</th>
+<td class="rgt">20,259</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">부채총계</th>
+<td class="rgt">31,383,508</td>
+<td class="rgt">32,541,375</td>
+<td class="rgt">37,256,197</td>
+<td class="rgt">46,671,585</td>
+<td class="rgt">46,033,232</td>
+</tr>
+<tr>
+<th scope="row">부채와자본총계</th>
+<td class="rgt">164,060,583</td>
+<td class="rgt">168,969,630</td>
+<td class="rgt">174,802,959</td>
+<td class="rgt">198,241,360</td>
+<td class="rgt">219,021,357</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_ka1" onclick="per_cha(this.value)" type="radio" value="p"/>분기
+							<input checked="" name="period_kb1" onclick="per_cha(this.value)" type="radio" value="y"/>연간
+							<select id="SinS0" name="SinS0" onchange="onDisplay2(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
+[25]
+<div class="section1 pt40" name="ppt3" style="display:none">
+<h4 class="h4_b1 fl">포괄손익계산서</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="포괄손익계산서, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">포괄손익계산서</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.03.31</th>
+<th scope="col">2018.06.30</th>
+<th scope="col">2018.09.30</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">매출액</th>
+<td class="rgt">-</td>
+<td class="rgt">60,563,714</td>
+<td class="rgt">58,482,658</td>
+<td class="rgt">65,459,993</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출원가</th>
+<td class="rgt">-</td>
+<td class="rgt">31,909,472</td>
+<td class="rgt">31,274,597</td>
+<td class="rgt">35,194,358</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">매출총이익(손실)</th>
+<td class="rgt">-</td>
+<td class="rgt">28,654,242</td>
+<td class="rgt">27,208,061</td>
+<td class="rgt">30,265,635</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">판매비와관리비</th>
+<td class="rgt">-</td>
+<td class="rgt">13,012,072</td>
+<td class="rgt">12,339,026</td>
+<td class="rgt">12,690,770</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">인건비</th>
+<td class="rgt">-</td>
+<td class="rgt">1,647,865</td>
+<td class="rgt">1,567,761</td>
+<td class="rgt">1,571,249</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">일반관리비</th>
+<td class="rgt">-</td>
+<td class="rgt">1,851,957</td>
+<td class="rgt">1,295,985</td>
+<td class="rgt">1,757,586</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">판매비</th>
+<td class="rgt">-</td>
+<td class="rgt">4,062,914</td>
+<td class="rgt">3,991,917</td>
+<td class="rgt">3,828,275</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타판매비와관리비</th>
+<td class="rgt">-</td>
+<td class="rgt">5,449,336</td>
+<td class="rgt">5,483,363</td>
+<td class="rgt">5,533,660</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">영업이익(손실)</th>
+<td class="rgt">-</td>
+<td class="rgt">15,642,170</td>
+<td class="rgt">14,869,035</td>
+<td class="rgt">17,574,865</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">영업외수익</th>
+<td class="rgt">-</td>
+<td class="rgt">2,735,596</td>
+<td class="rgt">3,595,973</td>
+<td class="rgt">2,805,712</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">영업외비용</th>
+<td class="rgt">-</td>
+<td class="rgt">2,201,859</td>
+<td class="rgt">3,058,172</td>
+<td class="rgt">2,411,233</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">법인세비용차감전계속사업이익(손실)</th>
+<td class="rgt">-</td>
+<td class="rgt">16,175,907</td>
+<td class="rgt">15,406,836</td>
+<td class="rgt">17,969,344</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">계속사업손익법인세비용(부의법인세비용)</th>
+<td class="rgt">-</td>
+<td class="rgt">4,487,363</td>
+<td class="rgt">4,363,424</td>
+<td class="rgt">4,818,629</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">계속사업이익(손실)</th>
+<td class="rgt">-</td>
+<td class="rgt">11,688,544</td>
+<td class="rgt">11,043,412</td>
+<td class="rgt">13,150,715</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">총당기순이익</th>
+<td class="rgt">-</td>
+<td class="rgt">11,688,544</td>
+<td class="rgt">11,043,412</td>
+<td class="rgt">13,150,715</td>
+<td class="rgt">-</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">-</td>
+<td class="rgt">11,611,833</td>
+<td class="rgt">10,981,547</td>
+<td class="rgt">12,967,428</td>
+<td class="rgt">-</td>
+</tr>
+<tr>
+<th scope="row">[포괄손익]</th>
+<td class="rgt">-</td>
+<td class="rgt">12,611,396</td>
+<td class="rgt">12,269,652</td>
+<td class="rgt">11,388,584</td>
+<td class="rgt">-</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input checked="" name="period_ke8" onclick="per_cha(this.value)" type="radio" value="pp"/>분기
+							<input name="period_kf8" onclick="per_cha(this.value)" type="radio" value="yp"/>연간
+							<select id="PpinS3" name="PpinS3" onchange="onDisplay8(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p></div>
+[26]
+<div class="section1 pt40" name="ypt3">
+<h4 class="h4_b1 fl">포괄손익계산서</h4>
+<p class="fr">(백만원)</p>
+<table class="list_b1" summary="포괄손익계산서, 년도별">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">포괄손익계산서</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">매출액</th>
+<td class="rgt">206,205,987</td>
+<td class="rgt">200,653,482</td>
+<td class="rgt">201,866,745</td>
+<td class="rgt">239,575,376</td>
+<td class="rgt">243,771,415</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">매출원가</th>
+<td class="rgt">128,278,800</td>
+<td class="rgt">123,482,118</td>
+<td class="rgt">120,277,715</td>
+<td class="rgt">129,290,661</td>
+<td class="rgt">132,394,411</td>
+</tr>
+<tr>
+<th scope="row">매출총이익(손실)</th>
+<td class="rgt">77,927,187</td>
+<td class="rgt">77,171,364</td>
+<td class="rgt">81,589,030</td>
+<td class="rgt">110,284,715</td>
+<td class="rgt">111,377,004</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">판매비와관리비</th>
+<td class="rgt">52,902,116</td>
+<td class="rgt">50,757,922</td>
+<td class="rgt">52,348,358</td>
+<td class="rgt">56,639,677</td>
+<td class="rgt">52,490,335</td>
+</tr>
+<tr>
+<th scope="row">인건비</th>
+<td class="rgt">5,514,947</td>
+<td class="rgt">5,838,353</td>
+<td class="rgt">5,976,261</td>
+<td class="rgt">6,797,163</td>
+<td class="rgt">6,451,395</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">일반관리비</th>
+<td class="rgt">9,169,816</td>
+<td class="rgt">9,154,469</td>
+<td class="rgt">8,782,736</td>
+<td class="rgt">8,651,504</td>
+<td class="rgt">6,763,555</td>
+</tr>
+<tr>
+<th scope="row">판매비</th>
+<td class="rgt">18,469,118</td>
+<td class="rgt">17,237,197</td>
+<td class="rgt">18,599,959</td>
+<td class="rgt">19,267,293</td>
+<td class="rgt">16,340,150</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">기타판매비와관리비</th>
+<td class="rgt">19,748,235</td>
+<td class="rgt">18,527,903</td>
+<td class="rgt">18,989,402</td>
+<td class="rgt">21,923,717</td>
+<td class="rgt">22,935,235</td>
+</tr>
+<tr>
+<th scope="row">영업이익(손실)</th>
+<td class="rgt">25,025,071</td>
+<td class="rgt">26,413,442</td>
+<td class="rgt">29,240,672</td>
+<td class="rgt">53,645,038</td>
+<td class="rgt">58,886,669</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">영업외수익</th>
+<td class="rgt">12,471,528</td>
+<td class="rgt">13,313,420</td>
+<td class="rgt">14,736,378</td>
+<td class="rgt">12,981,086</td>
+<td class="rgt">12,024,203</td>
+</tr>
+<tr>
+<th scope="row">영업외비용</th>
+<td class="rgt">9,621,565</td>
+<td class="rgt">13,765,867</td>
+<td class="rgt">13,263,398</td>
+<td class="rgt">10,430,157</td>
+<td class="rgt">9,750,914</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">법인세비용차감전계속사업이익(손실)</th>
+<td class="rgt">27,875,034</td>
+<td class="rgt">25,960,995</td>
+<td class="rgt">30,713,652</td>
+<td class="rgt">56,195,967</td>
+<td class="rgt">61,159,958</td>
+</tr>
+<tr>
+<th scope="row">계속사업손익법인세비용(부의법인세비용)</th>
+<td class="rgt">4,480,676</td>
+<td class="rgt">6,900,851</td>
+<td class="rgt">7,987,560</td>
+<td class="rgt">14,009,220</td>
+<td class="rgt">16,815,101</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">계속사업이익(손실)</th>
+<td class="rgt">23,394,358</td>
+<td class="rgt">19,060,144</td>
+<td class="rgt">22,726,092</td>
+<td class="rgt">42,186,747</td>
+<td class="rgt">44,344,857</td>
+</tr>
+<tr>
+<th scope="row">총당기순이익</th>
+<td class="rgt">23,394,358</td>
+<td class="rgt">19,060,144</td>
+<td class="rgt">22,726,092</td>
+<td class="rgt">42,186,747</td>
+<td class="rgt">44,344,857</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row">당기순이익(손실)</th>
+<td class="rgt">23,082,499</td>
+<td class="rgt">18,694,628</td>
+<td class="rgt">22,415,655</td>
+<td class="rgt">41,344,569</td>
+<td class="rgt">43,890,877</td>
+</tr>
+<tr>
+<th scope="row">[포괄손익]</th>
+<td class="rgt">21,400,944</td>
+<td class="rgt">19,136,215</td>
+<td class="rgt">24,717,492</td>
+<td class="rgt">36,684,490</td>
+<td class="rgt">44,332,615</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<input name="period_ke7" onclick="per_cha(this.value)" type="radio" value="pp"/>분기
+							<input checked="" name="period_kf7" onclick="per_cha(this.value)" type="radio" value="yp"/>연간
+							<select id="SpinS3" name="SpinS3" onchange="onDisplay7(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p></div>
+[27]
+<div class="section1">
+<h3 class="h3_a1">
+							재무분석
+						</h3>
+<table class="list_b1" summary="평가기관,회사채,평가기준일,기업어음">
+<caption>상세내용</caption>
+<colgroup>
+<col width="28%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th scope="col">주요재무비율</th>
+<th scope="col">2014.12.31</th>
+<th scope="col">2015.12.31</th>
+<th scope="col">2016.12.31</th>
+<th scope="col">2017.12.31</th>
+<th scope="col">2018.12.31</th>
+</tr>
+</thead>
+<tbody>
+<tr class="line_top">
+<th scope="row">수익성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">총자본순이익율</span></th>
+<td class="ctr">10.39</td>
+<td class="ctr">7.91</td>
+<td class="ctr">8.89</td>
+<td class="ctr">14.66</td>
+<td class="ctr">13.69</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">자기자본순이익율</span></th>
+<td class="ctr">14.51</td>
+<td class="ctr">10.77</td>
+<td class="ctr">12.05</td>
+<td class="ctr">20.29</td>
+<td class="ctr">18.99</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액법인세비용차감전순이익율</span></th>
+<td class="ctr">13.52</td>
+<td class="ctr">12.94</td>
+<td class="ctr">15.21</td>
+<td class="ctr">23.46</td>
+<td class="ctr">25.09</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액순이익율</span></th>
+<td class="ctr">11.19</td>
+<td class="ctr">9.32</td>
+<td class="ctr">11.1</td>
+<td class="ctr">17.26</td>
+<td class="ctr">18</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">매출액영업이익율</span></th>
+<td class="ctr">12.14</td>
+<td class="ctr">13.16</td>
+<td class="ctr">14.49</td>
+<td class="ctr">22.39</td>
+<td class="ctr">24.16</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">금융비용/매출액비율</span></th>
+<td class="ctr">0.29</td>
+<td class="ctr">0.39</td>
+<td class="ctr">0.29</td>
+<td class="ctr">0.27</td>
+<td class="ctr">0.28</td>
+</tr>
+<tr class="line_top bgc_gry">
+<th scope="row">성장성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">총자산증가율</span></th>
+<td class="ctr">7.64</td>
+<td class="ctr">5.1</td>
+<td class="ctr">8.26</td>
+<td class="ctr">15.1</td>
+<td class="ctr">12.46</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">자기자본증가율</span></th>
+<td class="ctr">12.05</td>
+<td class="ctr">6.53</td>
+<td class="ctr">7.76</td>
+<td class="ctr">11.16</td>
+<td class="ctr">15.51</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출액증가율</span></th>
+<td class="ctr"><font color="red">-9.83</font></td>
+<td class="ctr"><font color="red">-2.69</font></td>
+<td class="ctr">0.6</td>
+<td class="ctr">18.68</td>
+<td class="ctr">1.75</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">영업이익증가율</span></th>
+<td class="ctr"><font color="red">-31.97</font></td>
+<td class="ctr">5.55</td>
+<td class="ctr">10.7</td>
+<td class="ctr">83.46</td>
+<td class="ctr">9.77</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">법인세비용차감전순이익증가율</span></th>
+<td class="ctr"><font color="red">-27.34</font></td>
+<td class="ctr"><font color="red">-6.87</font></td>
+<td class="ctr">18.31</td>
+<td class="ctr">82.97</td>
+<td class="ctr">8.83</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">순이익증가율</span></th>
+<td class="ctr"><font color="red">-22.6</font></td>
+<td class="ctr"><font color="red">-19.01</font></td>
+<td class="ctr">19.9</td>
+<td class="ctr">84.45</td>
+<td class="ctr">6.16</td>
+</tr>
+<tr class="line_top">
+<th scope="row">안정성 비율
+													(%)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">영업활동현금흐름이자보상비율</span></th>
+<td class="ctr">62.36</td>
+<td class="ctr">51.59</td>
+<td class="ctr">80.61</td>
+<td class="ctr">94.85</td>
+<td class="ctr">99.36</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">영업이익이자보상비율</span></th>
+<td class="ctr">42.21</td>
+<td class="ctr">34.02</td>
+<td class="ctr">49.74</td>
+<td class="ctr">81.85</td>
+<td class="ctr">87.29</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">법인세차감전순이익이자보상비율</span></th>
+<td class="ctr">48.01</td>
+<td class="ctr">34.43</td>
+<td class="ctr">53.25</td>
+<td class="ctr">86.74</td>
+<td class="ctr">91.66</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">자기자본비율</span></th>
+<td class="ctr">72.95</td>
+<td class="ctr">73.94</td>
+<td class="ctr">73.6</td>
+<td class="ctr">71.08</td>
+<td class="ctr">73.01</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동비율</span></th>
+<td class="ctr">221.38</td>
+<td class="ctr">247.14</td>
+<td class="ctr">258.54</td>
+<td class="ctr">218.8</td>
+<td class="ctr">252.89</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">당좌비율</span></th>
+<td class="ctr">188.08</td>
+<td class="ctr">209.89</td>
+<td class="ctr">224.99</td>
+<td class="ctr">181.61</td>
+<td class="ctr">210.93</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">비유동자산비율</span></th>
+<td class="ctr">68.58</td>
+<td class="ctr">65.55</td>
+<td class="ctr">62.57</td>
+<td class="ctr">72.16</td>
+<td class="ctr">66.46</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">비유동자산장기적합율</span></th>
+<td class="ctr">64.61</td>
+<td class="ctr">61.23</td>
+<td class="ctr">58.2</td>
+<td class="ctr">65.98</td>
+<td class="ctr">60.92</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">부채비율</span></th>
+<td class="ctr">37.08</td>
+<td class="ctr">35.25</td>
+<td class="ctr">35.87</td>
+<td class="ctr">40.68</td>
+<td class="ctr">36.97</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">유동부채비율</span></th>
+<td class="ctr">30.94</td>
+<td class="ctr">28.2</td>
+<td class="ctr">28.35</td>
+<td class="ctr">31.32</td>
+<td class="ctr">27.88</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">차입금의존도</span></th>
+<td class="ctr">4.89</td>
+<td class="ctr">5.32</td>
+<td class="ctr">5.83</td>
+<td class="ctr">6.23</td>
+<td class="ctr">4.32</td>
+</tr>
+<tr>
+<th scope="row"><span class="depth2">차입금/자기자본</span></th>
+<td class="ctr">6.7</td>
+<td class="ctr">7.19</td>
+<td class="ctr">7.92</td>
+<td class="ctr">8.77</td>
+<td class="ctr">5.92</td>
+</tr>
+<tr class="line_top bgc_gry">
+<th scope="row">활동성 비율
+													(배)
+											</th>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+<td class="ctr"></td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">총자본회전율</span></th>
+<td class="ctr">0.93</td>
+<td class="ctr">0.85</td>
+<td class="ctr">0.8</td>
+<td class="ctr">0.85</td>
+<td class="ctr">0.76</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">재고자산회전율1</span></th>
+<td class="ctr">11.31</td>
+<td class="ctr">11.11</td>
+<td class="ctr">10.86</td>
+<td class="ctr">11.06</td>
+<td class="ctr">9.03</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매출채권회전율</span></th>
+<td class="ctr">8.3</td>
+<td class="ctr">8.05</td>
+<td class="ctr">8.16</td>
+<td class="ctr">9.22</td>
+<td class="ctr">7.92</td>
+</tr>
+<tr class="bgc_gry">
+<th scope="row"><span class="depth2">매입채무회전율</span></th>
+<td class="ctr">25.22</td>
+<td class="ctr">28.46</td>
+<td class="ctr">31.86</td>
+<td class="ctr">30.78</td>
+<td class="ctr">27.76</td>
+</tr>
+</tbody>
+</table>
+<p class="sel">
+<select id="FinS3" name="FinS3" onchange="onDisplay(this.value);" title="분류선택 ">
+<option value="0">K-IFRS 개별</option>
+<option value="1">K-IFRS 연결</option>
+<option value="2">K-GAAP 개별</option>
+<option value="3">K-GAAP 연결</option>
+</select>
+</p>
+</div>
