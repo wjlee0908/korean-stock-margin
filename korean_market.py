@@ -15,6 +15,6 @@ with open('corporations_kosdaq.csv', 'r', encoding='utf8') as file_read:
     for row in csv_reader:
         stock_code = row[1]
         if stock_code.isdecimal():
-            krx_codes.append(row[1])
+            kosdaq_codes.append(row[1])
 
 all_stock_codes = krx_codes + kosdaq_codes
