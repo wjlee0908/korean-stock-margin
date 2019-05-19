@@ -45,8 +45,15 @@ class Company:
         financial_table = soup.find('div', {'name':'yt1'})
         financial_dict = self.__generate_dict_from_html_table(financial_table, row_to_search, year_index)
 
+        # 테이블에서 재무정보가 찾아야 하는 행의 갯수와 다르면 종료.
+        if len(financial_dict) != len(row_to_search):
+            return
+            
         for key, value in financial_dict.items():
-            financial_dict[key] = currency.convert_to_int(value, money_unit)
+            # 상장온라인 표에서 0을 '-'으로 표기해서 변환해줌
+            if financial_dict[key] == '-':
+                financial_dict[key] = '0'
+            financial_dict[key] = currency.convert_to_int(financial_dict[key], money_unit)
 
         self.__asset = financial_dict['유동자산(계)']
         self.__current_liabilities = financial_dict['유동부채(계)']
@@ -59,7 +66,10 @@ class Company:
         profit_dict = self.__generate_dict_from_html_table(profit_table, row_to_search, year_index)
 
         for key, value in profit_dict.items():
-            profit_dict[key] = currency.convert_to_int(value, money_unit)
+            # 상장온라인 표에서 0을 '-'으로 표기해서 변환해줌
+            if profit_dict[key] == '-':
+                profit_dict[key] = '0'
+            profit_dict[key] = currency.convert_to_int(profit_dict[key], money_unit)
         
         self.__profit = profit_dict['영업이익(손실)']
 
@@ -78,6 +88,11 @@ class Company:
 
         for tr in table_html.find_all('tr'):
             header_name = tr.find('th')
+
+            # 찾을 행 있을 때만 진행
+            if type(header_name) == type(None):
+                continue
+
             # 찾을 행과 헤더가 동일한 행의 값만 읽음
             if header_name.text in row_headers:
                 tds = list(tr.find_all('td'))    # 행의 모든 열 정보 list로 저장
