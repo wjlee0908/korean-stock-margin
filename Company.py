@@ -1,11 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
-import Currency
+import currency
 
 class Company:
     def __init__(self, stock_code):
         self.__stock_code = stock_code
-
+        self.__name = ''    # 기업명
         self.__asset = 0    # 유동자산
         self.__current_liabilities = 0    # 유동부채
         self.__fixed_liabilities = 0    # 고정부채
@@ -13,6 +13,9 @@ class Company:
         self.__profit = 0    # 영업이익
         
         self.__set_information_from_table(self.__stock_code)
+
+    def __str__(self):
+        return '기업명: {}  종목코드: {}    유동자산: {}    유동부채: {}    고정부채: {}    투자자산: {}    영업이익: {}'.format(self.__name, self.__stock_code, self.__asset, self.__current_liabilities, self.__fixed_liabilities, self.__investment_asset, self.__profit)
 
     def __set_information_from_table(self, stock_code):
         # 재무제표 있는 기업정보 사이트(상장온라인)의 주소
@@ -33,13 +36,17 @@ class Company:
         # html 파일을 beatutifulsoup로 파싱
         soup = BeautifulSoup(response.content, 'html.parser')
 
+        # 이름 탐색
+        info_div = soup.find('div', {'class':'cot'})
+        self.__name = info_div.find('strong').text
+
         # 재무정보 테이블 탐색
         row_to_search = ['유동자산(계)', '유동부채(계)', '장기투자자산', '비유동부채(계)']
         financial_table = soup.find('div', {'name':'yt1'})
         financial_dict = self.__generate_dict_from_html_table(financial_table, row_to_search, year_index)
 
         for key, value in financial_dict.items():
-            financial_dict[key] = Currency.convert_to_int(value, money_unit)
+            financial_dict[key] = currency.convert_to_int(value, money_unit)
 
         self.__asset = financial_dict['유동자산(계)']
         self.__current_liabilities = financial_dict['유동부채(계)']
@@ -52,7 +59,7 @@ class Company:
         profit_dict = self.__generate_dict_from_html_table(profit_table, row_to_search, year_index)
 
         for key, value in profit_dict.items():
-            profit_dict[key] = Currency.convert_to_int(value, money_unit)
+            profit_dict[key] = currency.convert_to_int(value, money_unit)
         
         self.__profit = profit_dict['영업이익(손실)']
 
