@@ -9,7 +9,7 @@ import csv
 
 def add_new_company(company_list, codes):
         for code in codes:
-            new_company = Company(code)
+            new_company = Company(code, 2018)
             if new_company.is_valid() == True:
                 company_list.append(new_company)
             else:
@@ -23,7 +23,7 @@ if __name__ == "__main__":
         processes = []
         num_processes = 4
         stock_codes = korean_market.all_stock_codes
-        # stock_codes = random.sample(korean_market.all_stock_codes, k=100)    # [TEST] 테스트용 샘플 100개 추출
+        #stock_codes = random.sample(korean_market.all_stock_codes, k=100)    # [TEST] 테스트용 샘플 100개 추출
         len_single_list = len(stock_codes) // num_processes
 
         # 리스트 하나를 process 개수만큼 나눠서 병렬 처리
@@ -58,6 +58,7 @@ if __name__ == "__main__":
 
             for com in companies:
                     csv_writer.writerow(com.get_information_list())
+        
 
         
         print("--- {} seconds ---".format(time.time() - start_time))

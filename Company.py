@@ -3,8 +3,9 @@ from bs4 import BeautifulSoup
 import currency
 
 class Company:
-    def __init__(self, stock_code):
+    def __init__(self, stock_code, year):
         self.__stock_code = stock_code
+        self.__year = year
         self.__name = ''    # 기업명
         self.__asset = 0    # 유동자산
         self.__current_liabilities = 0    # 유동부채
@@ -44,7 +45,6 @@ class Company:
         table_page_num = 4    # 재무제표 있는 페이지 번호. nav 파리미터
 
         # 상장온라인 사이트에서 재무정보를 받아 멤버로 설정.
-        year_index = 4    # 연도 열의 인덱스
         money_unit = 1000000    # 표에서 돈의 기본 단위
 
         response = requests.get(company_information_url, {'paper_stock': stock_code, 'nav':str(table_page_num)})
@@ -72,6 +72,9 @@ class Company:
         # 재무정보 테이블 탐색
         row_to_search = ['유동자산(계)', '유동부채(계)', '장기투자자산', '비유동부채(계)']
         financial_table = soup.find('div', {'name':'yt1'})
+        year_index = self.__find_year_column_index(financial_table, self.__year)
+        if year_index == None:
+            return False
         financial_dict = self.__generate_dict_from_html_table(financial_table, row_to_search, year_index)
 
         # 테이블에서 재무정보가 찾아야 하는 행의 갯수와 다르면 종료.
@@ -92,6 +95,9 @@ class Company:
         # 포괄손익계산서 테이블 탐색
         row_to_search = ['영업이익(손실)']
         profit_table = soup.find('div', {'name':'ypt1'})
+        year_index = self.__find_year_column_index(financial_table, self.__year)
+        if year_index == None:
+            return False
         profit_dict = self.__generate_dict_from_html_table(profit_table, row_to_search, year_index)
 
         for key, value in profit_dict.items():
@@ -131,4 +137,13 @@ class Company:
 
         return table_info
 
-   
+    def __find_year_column_index(self, table_tag, year):
+       head_row = table_tag.find('tr')    # 테이블에서 첫 번째 row
+       headers = head_row.find_all('th')
+
+       for idx, th in enumerate(headers):
+           header_name = th.text
+           if str(year) + '.' in header_name:
+               return idx - 1    # data 첫 열은 th라서 data index는 -1
+
+       return None
