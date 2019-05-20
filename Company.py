@@ -11,17 +11,31 @@ class Company:
         self.__fixed_liabilities = 0    # 고정부채
         self.__investment_asset = 0    # 투자자산
         self.__profit = 0    # 영업이익
+        self.__value = 0    # 기업가치
         
         self.__is_scraping_succeed = self.__set_information_from_table(self.__stock_code)
 
+        if self.__is_scraping_succeed:
+            self.__value = calculate_value()
+
     def __str__(self):
-        return '기업명: {}  종목코드: {}    유동자산: {}    유동부채: {}    고정부채: {}    투자자산: {}    영업이익: {}'.format(self.__name, self.__stock_code, self.__asset, self.__current_liabilities, self.__fixed_liabilities, self.__investment_asset, self.__profit)
+        return '기업명: {}  종목코드: {}    유동자산: {}    유동부채: {}    고정부채: {}    투자자산: {}    영업이익: {}    기업가치: {}'\
+            .format(self.__name, self.__stock_code, self.__asset, self.__current_liabilities, self.__fixed_liabilities, \
+                self.__investment_asset, self.__profit, self.__value)
 
     def get_information_list(self):
         return [self.__stock_code, self.__name, self.__asset, self.__current_liabilities, self.__fixed_liabilities, self.__investment_asset, self.__profit]
 
+    def get_value(self):
+        return self.__value
+    
     def is_valid(self):
         return self.__is_scraping_succeed
+
+    def calculate_value(self):
+        business_value = self.__profit * 13.3
+        asset_value = self.__asset - (1.29 * self.__current_liabilities) + self.__investment_asset
+        return business_value + asset_value - self.__fixed_liabilities
 
     def __set_information_from_table(self, stock_code):
         # 재무제표 있는 기업정보 사이트(상장온라인)의 주소
@@ -115,3 +129,5 @@ class Company:
                 table_info[header_name.text] = tds[column_index].text
 
         return table_info
+
+   
