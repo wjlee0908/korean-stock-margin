@@ -16,7 +16,7 @@ class Company:
         self.__is_scraping_succeed = self.__set_information_from_table(self.__stock_code)
 
         if self.__is_scraping_succeed:
-            self.__value = calculate_value()
+            self.__value = self.calculate_value()
 
     def __str__(self):
         return '기업명: {}  종목코드: {}    유동자산: {}    유동부채: {}    고정부채: {}    투자자산: {}    영업이익: {}    기업가치: {}'\
@@ -24,7 +24,8 @@ class Company:
                 self.__investment_asset, self.__profit, self.__value)
 
     def get_information_list(self):
-        return [self.__stock_code, self.__name, self.__asset, self.__current_liabilities, self.__fixed_liabilities, self.__investment_asset, self.__profit]
+        return [self.__stock_code, self.__name, self.__asset, self.__current_liabilities, \
+        self.__fixed_liabilities, self.__investment_asset, self.__profit, self.__value]
 
     def get_value(self):
         return self.__value
