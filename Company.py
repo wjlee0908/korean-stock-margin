@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import currency
 
 class Company:
-    def __init__(self, stock_code, year):
+    def __init__(self, stock_code, year, use_current_data=False):
         self.__stock_code = stock_code
         self.__year = year
         self.__name = ''    # 기업명
@@ -13,11 +13,19 @@ class Company:
         self.__investment_asset = 0    # 투자자산
         self.__profit = 0    # 영업이익
         self.__value = 0    # 기업가치
+        self.__market_capitalization = 0    # 시가총액
+        self.__current_market = 0    # 현재 시가총액
+        self.__safety_margin = 0    # 안전 마진 비율
         
         self.__is_scraping_succeed = self.__set_information_from_table(self.__stock_code)
 
+        if use_current_data == True:
+            self.__market_capitalization = self.__current_market
+
         if self.__is_scraping_succeed:
             self.__value = self.calculate_value()
+            if self.__market_capitalization != 0:
+                self.__safety_margin = (self.__value - self.__market_capitalization) / self.__market_capitalization * 100
 
     def __str__(self):
         return '기업명: {}  종목코드: {}    유동자산: {}    유동부채: {}    고정부채: {}    투자자산: {}    영업이익: {}    기업가치: {}'\
@@ -26,7 +34,7 @@ class Company:
 
     def get_information_list(self):
         return [self.__stock_code, self.__name, self.__asset, self.__current_liabilities, \
-        self.__fixed_liabilities, self.__investment_asset, self.__profit, self.__value]
+        self.__fixed_liabilities, self.__investment_asset, self.__profit, self.__value, self.__market_capitalization, self.__safety_margin]
 
     def get_value(self):
         return self.__value
@@ -37,7 +45,7 @@ class Company:
     def calculate_value(self):
         business_value = self.__profit * 13.3
         asset_value = self.__asset - (1.29 * self.__current_liabilities) + self.__investment_asset
-        return business_value + asset_value - self.__fixed_liabilities
+        return int(business_value + asset_value - self.__fixed_liabilities)
 
     def __set_information_from_table(self, stock_code):
         # 재무제표 있는 기업정보 사이트(상장온라인)의 주소
@@ -95,7 +103,7 @@ class Company:
         # 포괄손익계산서 테이블 탐색
         row_to_search = ['영업이익(손실)']
         profit_table = soup.find('div', {'name':'ypt1'})
-        year_index = self.__find_year_column_index(financial_table, self.__year)
+        year_index = self.__find_year_column_index(profit_table, self.__year)
         if year_index == None:
             return False
         profit_dict = self.__generate_dict_from_html_table(profit_table, row_to_search, year_index)
@@ -107,6 +115,50 @@ class Company:
             profit_dict[key] = currency.convert_to_int(profit_dict[key], money_unit)
         
         self.__profit = profit_dict['영업이익(손실)']
+
+
+        # 투자정보 페이지에서 시가총액 읽어오기
+        table_page_num = 3    # 투자정보 페이지의 nav 파라미터
+        money_unit = 100000000    # 표에서 돈의 기본 단위
+        investment_information_url = 'http://media.kisline.com/investinfo/mainInvestinfo.nice'
+
+
+        response = requests.get(investment_information_url, {'paper_stock': stock_code, 'nav':str(table_page_num)})
+         # 페이지 읽어오기 실패하면 종료
+        if response.status_code != 200:
+            print("페이지가 응답하지 않습니다.")
+            return False
+        # html 파일을 beautifulsoup로 파싱
+        soup = BeautifulSoup(response.content, 'html.parser')    
+        if type(soup) == type(None):
+            return False
+
+        # 현재 시가총액 읽기
+        row_to_search = ['시가총액(억원) / 시가총액 순위']
+        current_table = soup.find('div', {'class':'fl half pr', 'id':'i0301'})
+        current_dict = self.__generate_dict_from_html_table(current_table, row_to_search, 0)
+        for key, value in current_dict.items():
+            # 상장온라인 표에서 0을 '-'으로 표기해서 변환해줌
+            if current_dict[key] == '-':
+                current_dict[key] = '0'
+            current_dict[key] = current_dict[key].split(' / ')[0]    # 시가총액 / 순위 중 시가총액만 가져옴
+            current_dict[key] = currency.convert_to_int(current_dict[key], money_unit)
+        self.__current_market = current_dict['시가총액(억원) / 시가총액 순위']
+        
+        row_to_search = ['시가총액(억원)']
+        investment_table = soup.find('div', {'class':'section1', 'id':'i1201'})
+        year_index = self.__find_year_column_index(investment_table, self.__year)
+        if year_index == None:
+            return False
+        investment_dict = self.__generate_dict_from_html_table(investment_table, row_to_search, year_index)
+
+        for key, value in investment_dict.items():
+            # 상장온라인 표에서 0을 '-'으로 표기해서 변환해줌
+            if investment_dict[key] == '-':
+                investment_dict[key] = '0'
+            investment_dict[key] = currency.convert_to_int(investment_dict[key], money_unit)
+        
+        self.__market_capitalization = investment_dict['시가총액(억원)']
 
         return True
 

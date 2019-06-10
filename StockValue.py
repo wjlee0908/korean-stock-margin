@@ -9,7 +9,7 @@ import csv
 
 def add_new_company(company_list, codes):
         for code in codes:
-            new_company = Company(code, 2018)
+            new_company = Company(code, 2018, use_current_data=True)
             if new_company.is_valid() == True:
                 company_list.append(new_company)
             else:
@@ -43,21 +43,23 @@ if __name__ == "__main__":
             p.join()
 
         '''
-        with open('corporation_information_test.csv', 'w', encoding='utf8' newline='') as file_write:
+        with open('corporation_information_test.csv', 'w', encoding='utf8', newline='') as file_write:
                 csv_writer = csv.writer(file_write)
-                csv_writer.writerow(['종목코드', '회사명', '유동자산', '유동부채', '투자자산', '비유동부채', '영업이익'])
+                csv_writer.writerow(['종목코드', '회사명', '유동자산', '유동부채', '투자자산', '비유동부채', '영업이익', '기업가치', '시가총액', '안전마진율'])
 
                 for com in companies:
                         csv_writer.writerow(com.get_information_list())
         '''
+        
 
-        '''
+        
         with open('corporation_information.csv', 'w', encoding='utf8', newline='') as file_write:
             csv_writer = csv.writer(file_write)
-            csv_writer.writerow(['종목코드', '회사명', '유동자산', '유동부채', '투자자산', '비유동부채', '영업이익', '기업가치'])
+            csv_writer.writerow(['종목코드', '회사명', '유동자산', '유동부채', '투자자산', '비유동부채', '영업이익', '기업가치', '시가총액', '안전마진율'])
 
             for com in companies:
                     csv_writer.writerow(com.get_information_list())
+        
         '''
         with open('corporation_value.csv', 'w', encoding='utf8', newline='') as file_write:
             csv_writer = csv.writer(file_write)
@@ -66,9 +68,7 @@ if __name__ == "__main__":
             for com in companies:
                     info_list = com.get_information_list()
                     csv_writer.writerow([info_list[0], info_list[1], info_list[-1]])
-
-
-
+        '''
         
         print("--- {} seconds ---".format(time.time() - start_time))
         
